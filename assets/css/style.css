@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto|Lato:300');
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
 *{
     margin:0;
@@ -115,15 +115,15 @@ body{
     font-size: 24px;
     text-transform: uppercase;
     color: #0082AF;
-    text-shadow: -1px 1px 2px rgba(0, 0, 0, .4),
-				  1px 1px 2px rgba(0, 0, 0, .4),
+    text-shadow: -1px 1px 1px rgba(0, 0, 0, .4),
+				  1px 1px 1px rgba(0, 0, 0, .4),
 				  1px -1px 0 rgba(0, 0, 0, .4),
 				  -1px -1px 0 rgba(0, 0, 0, .4);
 }
 
 .selection--div{
     margin-left: 10%;
-    margin-top: 10px;
+    margin-top: 25px;
     width: 200px;
     height: 200px;
     background-color: rgba(182, 215, 168, .7);
@@ -137,6 +137,27 @@ body{
 }
 
 .row h3, .row p {
+    margin-top: 5px;
     justify-content: center;
     text-align: center;
+    text-shadow: -1px 1px 1px rgba(0, 0, 0, .4),
+				  1px 1px 1px rgba(0, 0, 0, .4),
+				  1px -1px 0 rgba(0, 0, 0, .4),
+				  -1px -1px 0 rgba(0, 0, 0, .4);
+}
+
+.benefits--container h2{
+    margin-top: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.benefits--container .col-sm-4 {
+    margin-left: 2%;
+    margin-top: 20px;
+    text-align: center;
+    width: 30%;
+    height: 300px;
+    display: inline-block;
+    background-color: red;
+
 }

@@ -157,6 +157,7 @@ Skeleton structure of the README.md file was copied from [Jacqueline Kraus](http
 Most of my text and educative information was copied from Wikipedia
 
 - headlines for hero paragraphs was taken from https://theteahouseltd.com/
+- text shadows example was discovered [](https://www.codesdope.com/blog/article/adding-outline-to-text-using-css/)
 
 ### Problems encountered: 
 - Git merging branch with local Pycharm. "The “fatal: refusing to merge unrelated histories” Git error"
