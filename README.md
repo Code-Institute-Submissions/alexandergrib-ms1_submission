@@ -157,7 +157,9 @@ Skeleton structure of the README.md file was copied from [Jacqueline Kraus](http
 Most of my text and educative information was copied from Wikipedia
 
 - headlines for hero paragraphs was taken from https://theteahouseltd.com/
-- text shadows example was discovered [](https://www.codesdope.com/blog/article/adding-outline-to-text-using-css/)
+- [text shadows example](https://www.codesdope.com/blog/article/adding-outline-to-text-using-css/)
+- [Traditions text](https://www.mentalfloss.com/article/72891/15-tea-traditions-around-world#:~:text=Drinking%20tea%20is%20a%20tradition,preparations%20evolving%20along%20the%20way.)
+
 
 ### Problems encountered: 
 - Git merging branch with local Pycharm. "The “fatal: refusing to merge unrelated histories” Git error"
@@ -175,4 +177,7 @@ Most of my text and educative information was copied from Wikipedia
   - puer tea <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=603774">Link</a>
   - teacup Photo by <a href="https://unsplash.com/@teacora?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">TeaCora Rooibos</a> on <a href="/s/photos/tea?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> https://unsplash.com/photos/FnTWsBohkdo
   - tea tradition 1 Photo by <a href="https://unsplash.com/@lauraadaiphoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">laura adai</a> on <a href="/s/photos/tea-traditions?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  - tea tradition 2 Photo by <a href="https://unsplash.com/@igorstarkoff?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Igor Starkov</a> on <a href="/s/photos/teapot?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  - tradition 3 Photo by <a href="https://unsplash.com/@pursuit_of_shutter?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ranit Chakraborty</a> on <a href="/s/photos/teapot?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  - tradition 4 Photo by <a href="https://unsplash.com/@teacreative?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tea Creative │ Soo Chung</a> on <a href="/s/photos/teapot?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
