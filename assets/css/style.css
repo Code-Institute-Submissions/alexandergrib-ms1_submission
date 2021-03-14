@@ -1,0 +1,39 @@
+/*---- background colors ----*/
+.color1 {
+    color: #93C47D;
+    color: #53B782;
+    color: #00A790;
+    color: #0096A1;
+    color: #0082AF;
+    color: #006DB5;
+}
+body{
+    background-color: #0082AF;
+}
+.navbar {
+    background-color: #93C47D;
+    color: #a7a7a7;
+}
+
+/*links text color*/
+.navbar-icon-color,
+.navbar a {
+    color: #3e70f3;
+}
+
+
+
+
+#logoimg {
+    border-color: red;
+    width: 50px;
+    height: 50px;
+
+    /*background-color: rgba(0, 125, 0, 0.5);*/
+
+}
+#logoimg img {
+    margin-top: 0px;
+    width: 50px;
+    height: auto;
+}
