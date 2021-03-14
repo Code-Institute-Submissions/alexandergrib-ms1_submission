@@ -183,3 +183,12 @@ hr {
     border-radius: 25px;
 }
 
+.history--container {
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.history--container .jumbotron {
+    background-color: rgba(0, 0, 0, 0);
+}

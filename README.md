@@ -159,7 +159,7 @@ Most of my text and educative information was copied from Wikipedia
 - headlines for hero paragraphs was taken from https://theteahouseltd.com/
 - [text shadows example](https://www.codesdope.com/blog/article/adding-outline-to-text-using-css/)
 - [Traditions text](https://www.mentalfloss.com/article/72891/15-tea-traditions-around-world#:~:text=Drinking%20tea%20is%20a%20tradition,preparations%20evolving%20along%20the%20way.)
-
+- [Tea history](https://en.wikipedia.org/wiki/History_of_tea_in_China)
 
 ### Problems encountered: 
 - Git merging branch with local Pycharm. "The “fatal: refusing to merge unrelated histories” Git error"
