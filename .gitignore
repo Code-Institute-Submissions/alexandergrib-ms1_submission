@@ -6,3 +6,4 @@ __pycache__/
 *.py[cod]
 alex.docx
 .idea
+.DS_Store
