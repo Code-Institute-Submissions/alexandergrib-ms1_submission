@@ -65,16 +65,17 @@ Short story about fonts which one is used and which one is for the backup. Why i
 
 ## Colors
 To have a harmonic visual impression of the website and to be aligned with the colors shown in the images, I used mainly following colors:
-- Body background color: #ededed
-- Text color: #464646
-- Background color header and footer: #f9f9f9
+- Body background color: rgba(0, 130, 175, .9)
+- Text color: #a7a7a7
+- Background color header and footer: #93C47D
 
 ## Images
-- All images on the website are originally taken by me. Commercial use of the images are not allowed.
+- All images on the website was taken from internet resources with all credit information stated in "Credits" section of this README file.
 - Image backup-color: black
 
 # Features
-The website consists of 7 pages. All pages are accessible by a navigation bar in the header. A different way of navigating page by page (starting with the Homepage) are the CTAs (call to action) at the bottom of the pages (except of contact page, as it is the last page you can navigate to).
+The website is single page, with interactive links to sections on the page with popup window with send me a message form.
+
 ## Existing Features
 ### Navigation Bar (in the Header):
 -  Visible on all pages
@@ -82,13 +83,9 @@ The website consists of 7 pages. All pages are accessible by a navigation bar in
 - Left: Logo (linked to homepage) 
 - Right 4 Links:
     - Home 
-    - Planning (has a dropdown with 4 items:)
-        - route
-        - accommodation
-	    - highlights
-	    - lotr
-    - Gallery
-    - Contact
+    - Tea traditions(gallery)
+    - Tea History
+    - Contact me (modulo popup with email and textbar)
 
 ### CTA (call to action):
 - visible on the bottom of the body in all pages, except of the contact page (last page)

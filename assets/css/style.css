@@ -19,19 +19,26 @@
 
 body {
     font-family: Roboto, sans-serif;
-    background-color: #0082AF;
-    color: #93C47D;
+    background-color: rgba(0, 130, 175, .9);
+    color: #ffffff;
 }
 
 .navbar {
     background-color: #93C47D;
     color: #a7a7a7;
+    text-transform: uppercase;
 }
 
 /*links text color*/
 .navbar-icon-color,
 .navbar a {
-    color: #3e70f3;
+    color: #ffffff;
+}
+
+.navbar a:hover{
+    color: #0082AF;
+    border-bottom: 1px solid;
+    border-bottom-color: #0082AF;
 }
 
 .text--shadow {
@@ -104,11 +111,8 @@ body {
     vertical-align: middle;
     font-size: 24px;
     text-transform: uppercase;
-    color: #0082af;
-    text-shadow: -1px 1px 2px rgba(0, 0, 0, .4),
-    1px 1px 2px rgba(0, 0, 0, .4),
-    1px -1px 0 rgba(0, 0, 0, .4),
-    -1px -1px 0 rgba(0, 0, 0, .4);
+
+
 
 }
 
@@ -122,11 +126,8 @@ body {
     vertical-align: middle;
     font-size: 120%;
     text-transform: uppercase;
-    color: #0082AF;
-    text-shadow: -1px 1px 1px rgba(0, 0, 0, .4),
-    1px 1px 1px rgba(0, 0, 0, .4),
-    1px -1px 0 rgba(0, 0, 0, .4),
-    -1px -1px 0 rgba(0, 0, 0, .4);
+
+
 }
 
 /*--Tea selection-------*/
