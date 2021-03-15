@@ -23,10 +23,7 @@ body{
     background-color: #0082AF;
     color: #93C47D;
 }
-hr {
-    margin-top: 20px;
-    margin-bottom: 10px;
-}
+
 .navbar {
     background-color: #93C47D;
     color: #a7a7a7;
@@ -37,9 +34,12 @@ hr {
 .navbar a {
     color: #3e70f3;
 }
-
-
-
+.text--shadow {
+    text-shadow: -1px 1px 2px rgba(0, 0, 0, .4),
+    1px 1px 2px rgba(0, 0, 0, .4),
+    1px -1px 0 rgba(0, 0, 0, .4),
+    -1px -1px 0 rgba(0, 0, 0, .4);
+}
 
 #logoimg {
     border-color: red;
@@ -54,41 +54,41 @@ hr {
     width: 50px;
     height: auto;
 }
-
-.info--line {
-    height: 40px;
-    padding: 4px;
-    margin-top: 66px;
-    text-align: left;
-    color: #ec1717;
-    background-color: blanchedalmond;
-    letter-spacing: 4px;
-    border: 1px solid #53B782;
-    text-shadow: 6px 5px 4px rgba(28,110,164,0.3);
-}
-.info--line span{
-    margin-top: 3px;
-    margin-left: 10%;
-    display:inline-block;
-}
-.info--line button{
-    float: right;
-    margin-right: 10vw;
-    display:inline-block;
-}
+/*!*info line*!*/
+/*.info--line {*/
+/*    height: 40px;*/
+/*    padding: 4px;*/
+/*    margin-top: 66px;*/
+/*    text-align: left;*/
+/*    color: #ec1717;*/
+/*    background-color: blanchedalmond;*/
+/*    letter-spacing: 4px;*/
+/*    border: 1px solid #53B782;*/
+/*    text-shadow: 6px 5px 4px rgba(28,110,164,0.3);*/
+/*}*/
+/*.info--line span{*/
+/*    margin-top: 3px;*/
+/*    margin-left: 10%;*/
+/*    display:inline-block;*/
+/*}*/
+/*.info--line button{*/
+/*    float: right;*/
+/*    margin-right: 10vw;*/
+/*    display:inline-block;*/
+/*}*/
 
 .hero--img {
     background: #D0E4F5 url("../img/arfan-abdulazeez-oi0FvNhkHy8-unsplash.jpg") no-repeat fixed 0% 50%;
-    height: 300px;
+    height: 350px;
 }
 
 .jumbo--box {
     background-color: rgba(182, 215, 168, .7);
     position: relative;
-    left: 30%;
-    top: 25px;
+    left: 25%;
+    top: 7em;
     height: 200px;
-    width: 40%;
+    width: 50%;
     border-radius: 20px;
     margin-bottom: 0;
 }
@@ -113,10 +113,11 @@ hr {
     position: relative;
     top:30px;
     left: auto;
-    line-height: 50px;
+    /*line-height: 50px;*/
+    line-height: 3em;
     text-align: center;
     vertical-align: middle;
-    font-size: 24px;
+    font-size: 120%;
     text-transform: uppercase;
     color: #0082AF;
     text-shadow: -1px 1px 1px rgba(0, 0, 0, .4),
@@ -125,13 +126,25 @@ hr {
 				  -1px -1px 0 rgba(0, 0, 0, .4);
 }
 
+/*--Tea selection-------*/
+#tea-selection{
+    width: 100%;
+    margin-top: 20px;
+    /*margin-left: auto;*/
+    text-align: center;
+    text-transform: uppercase;
+    justify-content: center;
+}
+
 .selection--div{
     margin-left: 10%;
     margin-top: 25px;
+    margin-bottom: 30px;
     width: 200px;
     height: 200px;
     background-color: rgba(182, 215, 168, .7);
     border-radius: 25px;
+    display: inline-block;
 }
 
 .selection--div img {
@@ -140,8 +153,8 @@ hr {
     border-radius: 25px;
 }
 
-.row h3, .row p {
-    margin-top: 5px;
+.selection--div h3, .selection--div p {
+    margin-top: 8px;
     justify-content: center;
     text-align: center;
     text-shadow: -1px 1px 1px rgba(0, 0, 0, .4),
@@ -149,12 +162,17 @@ hr {
 				  1px -1px 0 rgba(0, 0, 0, .4),
 				  -1px -1px 0 rgba(0, 0, 0, .4);
 }
+.selection--div p {
+    font-size: 80%;
+}
 
+/*Benefits section*/
 .benefits--container h2{
     margin-top: 20px;
     text-align: center;
     text-transform: uppercase;
 }
+
 .benefits--container .col-sm-4 {
     margin-left: 2%;
     margin-top: 20px;
@@ -162,8 +180,14 @@ hr {
     width: 30%;
     height: 300px;
     display: inline-block;
-    background-color: red;
 
+
+}
+.tea-benefits-hero{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: #a7a7a7;
 }
 
 .carousel--gallery {
@@ -183,6 +207,8 @@ hr {
     border-radius: 25px;
 }
 
+/*----History section----*/
+
 .history--container {
     text-transform: uppercase;
     text-align: center;
@@ -192,3 +218,6 @@ hr {
 .history--container .jumbotron {
     background-color: rgba(0, 0, 0, 0);
 }
+
+
+

@@ -156,10 +156,11 @@ The website consists of 7 pages. All pages are accessible by a navigation bar in
 Skeleton structure of the README.md file was copied from [Jacqueline Kraus](https://github.com/jacqueline-kraus/MS1-Discover-NZ)
 Most of my text and educative information was copied from Wikipedia
 
-- headlines for hero paragraphs was taken from https://theteahouseltd.com/
+- [headlines for hero paragraphs](https://theteahouseltd.com/)
 - [text shadows example](https://www.codesdope.com/blog/article/adding-outline-to-text-using-css/)
 - [Traditions text](https://www.mentalfloss.com/article/72891/15-tea-traditions-around-world#:~:text=Drinking%20tea%20is%20a%20tradition,preparations%20evolving%20along%20the%20way.)
 - [Tea history](https://en.wikipedia.org/wiki/History_of_tea_in_China)
+- [tea feacts](https://www.healthline.com/nutrition/top-10-evidence-based-health-benefits-of-green-tea#4.-Antioxidants-may-lower-the-risk-of-some-cancers)
 
 ### Problems encountered: 
 - Git merging branch with local Pycharm. "The “fatal: refusing to merge unrelated histories” Git error"
