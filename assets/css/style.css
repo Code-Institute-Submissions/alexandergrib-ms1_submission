@@ -137,6 +137,7 @@ body{
 }
 
 .selection--div{
+    /*margin-left: auto;*/
     margin-left: 10%;
     margin-top: 25px;
     margin-bottom: 30px;
@@ -166,29 +167,29 @@ body{
     font-size: 80%;
 }
 
-/*Benefits section*/
-.benefits--container h2{
-    margin-top: 20px;
-    text-align: center;
-    text-transform: uppercase;
-}
+/*!*Benefits section*!*/
+/*.benefits--container h2{*/
+/*    margin-top: 20px;*/
+/*    text-align: center;*/
+/*    text-transform: uppercase;*/
+/*}*/
 
-.benefits--container .col-sm-4 {
-    margin-left: 2%;
-    margin-top: 20px;
-    text-align: center;
-    width: 30%;
-    height: 300px;
-    display: inline-block;
+/*.benefits--container .col-sm-4 {*/
+/*    margin-left: 2%;*/
+/*    margin-top: 20px;*/
+/*    text-align: center;*/
+/*    width: 30%;*/
+/*    height: 300px;*/
+/*    display: inline-block;*/
 
 
-}
-.tea-benefits-hero{
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    background-color: #a7a7a7;
-}
+/*}*/
+/*.tea-benefits-hero{*/
+/*    width: 200px;*/
+/*    height: 200px;*/
+/*    border-radius: 50%;*/
+/*    background-color: #a7a7a7;*/
+/*}*/
 
 .carousel--gallery {
     text-align: center;
