@@ -43,7 +43,7 @@
                 <a class="nav-link" href="#tea-history">Tea History</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Contact me</a>
+                <a class="nav-link" href="#" data-toggle="modal" data-target="#exampleModalCenter">Contact me</a>
             </li>
         </ul>
     </div>
@@ -142,7 +142,8 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="d-block w-100" src="assets/img/cropped_tradition3_ranit-chakraborty-3Zf-J3kiOwY-unsplash.jpg"
+                <img class="d-block w-100"
+                     src="assets/img/cropped_tradition3_ranit-chakraborty-3Zf-J3kiOwY-unsplash.jpg"
                      alt="Third slide">
                 <div class="carousel-caption d-none d-md-block">
                     <h3>China</h3>
@@ -154,7 +155,8 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="d-block w-100" src="assets/img/cropped_tradition4_tea-creative-soo-chung-Xe1Pj7iQ0-w-unsplash.jpg"
+                <img class="d-block w-100"
+                     src="assets/img/cropped_tradition4_tea-creative-soo-chung-Xe1Pj7iQ0-w-unsplash.jpg"
                      alt="Fourth slide">
                 <div class="carousel-caption d-none d-md-block">
                     <h3>Pakistan</h3>
@@ -211,23 +213,141 @@
 <hr>
 
 <!--happy customers section-->
-<section>
-    <h2>cust reviews</h2>
-</section>
+<div class="container">
+    <div class="row justify-content-center d-flex align-items-center reviews">
+        <div class="col"><h2>What customers think about us</h2></div>
+    </div>
+
+    <div class="row justify-content-center reviews">
+        <div class="col-4 d-flex align-items-center">
+            <img src="assets/img/rsz_1face1_omid-armin-htqld6hos94-unsplash.jpg" alt="Customer hero image">
+        </div>
+
+        <div class="col-8 d-flex align-items-center">
+            <p class="text--shadow">On a recent holiday I stumbled across 'real' loose tea - I don't mean the old PG
+                Tips finely ground type stuff, this was the real deal, and the flavour was exceptional.
+                It set me on the path to real refreshment and I thought I'd give TeaPigs a chance for a standard blended
+                breakfast brew.
+                Great choice on my part, it has the big leaf consistency I encountered on my hols, and the taste is
+                refreshing and full without the 'twang' that some standard teas can leave in the mouth.
+                It's well priced and worth paying that little extra over standard loose leaf and I'm going to give a
+                couple of the more exotic single leaf types a whirl next. </p>
+        </div>
+    </div>
+
+    <div class="row justify-content-center reviews">
+        <div class="col-4 d-flex align-items-center order-2">
+            <img src="assets/img/rsz_face2_alexander-krivitskiy-td9rszywt7y-unsplash.jpg" alt="Customer hero image">
+        </div>
+
+        <div class="col-8 d-flex align-items-center">
+            <p class="text--shadow">I had this on subscription for a long time. I now only drink loose tea and this is
+                my go to. I have Fortnums, Whittards and Harrods loose leaf tea as I feel like lifes too short to drink
+                bad tea.
+
+                It’s easily the nicest every day “budget’ loose leaf tea I’ve ever tried and I’ve only paused my
+                subscription because I have a ton of really nice posh tea which I got for my birthday to get through.
+
+                It tastes like the tea my nan used to make me back in my childhood.</p>
+        </div>
+    </div>
+</div>
+
 
 <!--about us-->
-<section>
+<div class="container about-us">
     <div class="container history--container text--shadow">
         <h2>about us</h2>
         <p>We are small imaginary company who offer our customers great selection of various tea.
 
-            This company was created as an educational project to demonstrate my abilities to make decent HTML page with a
+            This company was created as an educational project to demonstrate my abilities to make decent HTML page with
+            a
             pinch of CSS.</p>
     </div>
-</section>
+</div>
+<!--modal-->
 
 
-<footer><h2>footer</h2></footer>
+<!-- Button trigger modal -->
+<!--<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalCenter">-->
+<!--    Launch demo modal-->
+<!--</button>-->
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle"
+     aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLongTitle">Lets get in touch</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+
+                <form method="post" action="https://formdump.codeinstitute.net/">
+                    <div class="form-group">
+                        <label for="fname">Your Name:</label>
+                        <input type="text" class="form-control" id="fname" name="fname" placeholder="Your full name" required>
+                        <label for="email">Email address:</label>
+                        <input type="email" class="form-control" id="email" name="email" placeholder="name@example.com" required>
+                        <label for="teaSelector">Select your tea:</label>
+                        <select multiple class="form-control" id="teaSelector" name="tea">
+                            <option>Black tea</option>
+                            <option>Green tea</option>
+                            <option>White tea</option>
+                            <option>Pu'er tea</option>
+                        </select>
+
+                        <label for="Textarea">Leave your message:</label>
+                        <textarea class="form-control" id="Textarea" rows="3" name="message"></textarea>
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </div>
+
+                </form>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<footer>
+    <div class="container text--shadow">
+        <div class="row footer">
+            <div class="col-3">
+                <h3>Links</h3>
+                <ul>
+                    <li>Homepage</li>
+                    <li>About us</li>
+                    <li>Get in touch</li>
+                </ul>
+            </div>
+            <div class="col-3">
+                <h3>Address:</h3>
+                <p>1 imaginary street,
+                    London, UK, SE1 3ES</p>
+            </div>
+            <div class="col-3"><h3>Contact us</h3>
+                <ul>
+                    <li>FB</li>
+                    <li>Link in</li>
+                    <li>github\</li>
+                    <li>form</li>
+                </ul>
+            </div>
+            <div class="col-3">
+                <h3>Payments accepted</h3>
+                <ul>
+                    <li>visa</li>
+                    <li>paypal</li>
+                    <li>master</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
 
 
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
