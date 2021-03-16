@@ -16,11 +16,7 @@
     - [Features left to implement](#features-left-to-implement)
 - [Technologies used](#technologies-used)
 - [Code Validation](#code-validation)
-- [Testing](#testing)
-    - [Funcionality Testing](#functionality-testing)
-    - [Compatibility Testing](#compatibility-testing)
-    - [User stories testing](#user-stories-testing)
-    - [Bugs and problems](#bug-and-problems)
+- [Testing](#testing)    
 - [Deployment](#deployment)
 - [Credits](#credits)
 
@@ -28,20 +24,22 @@
 # UX
 
 ## Website owner business goals
-As the website owner, the goal is to provide information and inspiration and share experience ....
-
+As the site owner of this imaginary teashop, I want to deliver clean and easy to read information about different types of the tea that exist in the world.  Such as green, black, white and pu’er teas. As a business I want to give opportunity to my visitors personally try different types of tea on weekly subscription basis.  
+Also, I wish to help customers to get clear understanding how tea is grown, how it processed and delivered around the globe and end up in their morning cuppa.
 ## User goals
-- 1
-- 2
-- 3
-- 4
-- 5
+- Me as a user i want to have easy navigational bar
+- Simplicity of reading headlines and have a  clear view of pictures
+- Ability to navigate between pages and possibility to return to the home page whiting one click
+- Site must be readable under all screen size must include mobile in my case it would be Samsung s8 and it should work with tablet screen and under high res desktop screen
+- Web site should contain media gallery inside picture snippets with rounded edges and light border, with a possibility to scroll itself
+
 
 ## User stories
 ### As a business owner:
-- 1
-- 2
-- 3
+- I want to user receive available information about products I have
+- Read more information about any specific product displayed by clicking on related image
+- Place an order or contact me by filling out “Contact me” form.
+
 
 
 ### As a new customer:
@@ -52,8 +50,8 @@ As the website owner, the goal is to provide information and inspiration and sha
 - 5
 
 # Structure of the website
-
-The website is optimised for all devices (desktop, mobile and tablet). It is supposed to be user friendly and easy to understand. There are small differences on some pages between mobile and desktop, to have a better visualisation of the content, based on the device. With hover effects and a lot of links (which redirects to websites with more information) the user gets some interaction. By not only having a navigation bar on top of the page, but also having a call to action on every pages body bottom (which leads to the following page), the user has two ways to read through the website.
+The website is setup to be used on as many devices as possible, this includes small mobile phones as well as extra-large 4k tv screens. Website suppose to be easy to navigate between sections by clicking required link in the navbar. Also includes easily accessible contact me form with thank you message after completing and send.
+There are small differences on some pages between mobile and desktop, to have a better visualisation of the content, based on the device. 
 
 # Wireframes
 Wireframes can be found here: #show images of wirefames
@@ -61,92 +59,82 @@ Wireframes can be found here: #show images of wirefames
 
 # Surface
 ## Fonts
-Short story about fonts which one is used and which one is for the backup. Why i choose them?
+I decided to go with google Roboto font and sans-serif as a fall-back font.
+I think Roboto font is most used font across whole internet and it would not look too different for the user coming from any website they used to use. 
+
 
 ## Colors
-To have a harmonic visual impression of the website and to be aligned with the colors shown in the images, I used mainly following colors:
+Trying to keep whole webpage in harmonic design and have it associated with “tea” colours, I decided to go for the light green colour for the header and footer and to keep it contrasted but organic in colour I went for the blue-ish for the background. To keep high contrast for the text I set colour to white with black shadow outline.
+I used following colours:
 - Body background color: rgba(0, 130, 175, .9)
 - Text color: #a7a7a7
 - Background color header and footer: #93C47D
 
+
 ## Images
 - All images on the website was taken from internet resources with all credit information stated in "Credits" section of this README file.
-- Image backup-color: black
+
+## Text
+- While I tried to keep my website filled with some useful information, I have had to copy some text mainly from Wikipedia page. Most text information is credited in “Credits” section in this README file 
 
 # Features
 The website is single page, with interactive links to sections on the page with popup window with send me a message form.
 
 ## Existing Features
 ### Navigation Bar (in the Header):
--  Visible on all pages
-- Responsive (adapts to burger menu on mobile)
-- Left: Logo (linked to homepage) 
-- Right 4 Links:
-    - Home 
-    - Tea traditions(gallery)
-    - Tea History
-    - Contact me (modulo popup with email and textbar)
+- Visible on all pages and attached to the top of the page
+- Mobile view collapse links into “Burger menu” 
+- Left side of navbar contains Logo image with active link to homepage
+- Right side of navigation bar contain 4 hyperinks:
+  - Home
+  - Tea traditions(gallery)
+  - Tea History
+  - Contact me (modulo popup with email and textbar)
 
-### CTA (call to action):
-- visible on the bottom of the body in all pages, except of the contact page (last page)
-- used as an option to navigate through the website (page by page)
+
 
 ### Footer:
-- visible on all pages
-- Content: short "about me", link to contact form, social links
+- visible on all pages 
+- Contain contact up link
+- imaginary business address information
+- fontawesome icons with links to default home page of linkedin, facebook, githup
+- Copyright information
+
 
 ### Home (index.html):
 - introduction text for what the website is about
-- text with general information about New Zealand
-- 4 images with links to different pages (in case user is interested in something in particular)
+- clickable Pictures with tea icons
+- Picture gallery
+- History section
+- Customers reviews section?
+-  About us section
 
-### Route (route.html):
-- images of recommended route (screenshot of Google maps)
-- explanatory text for screenshot (city by city)
-
-### Accommodation (accommodation.html):
-- Text with tips for finding accommodations
-- Table with recommended accommodations (includes links to booking websites)
-
-### Highlights (highlights.html):
-- List of top 10 highlights to visit with information and links
-
-### Lotr (lotr.html):
-- 5 items for lord of the rings fans to visit in New Zealand along the trip
-- includes external links for more information
-
-### Gallery (gallery.html):
-- image gallery to scroll through
 
 ### Contact form (contact.html):
-- required form fields: Name, Emailaddress and Message
+- required form fields: Name, Email address and Message
 - On submit, "thank you" alert message will be shown
 
 ## Features left to implement:
-- embed google maps in the route page: I used a screenshot from Google maps and linked it to a preselected route. Ideally this map would be directly embedded with Google maps. The reason I didn't do it, is that Google changed their requirements of using their Google Maps API.
 
 ## Technlogies used:
 - HTML: 
 - CSS
 - Bootstrap
 - Fontawesome
-- Google Fonts  @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+- Google Fonts  
 - Github
-- Gitpod
 - Git
 - Balsamiq
-- hover.css  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css" type="text/css" />
-- 
 
 ## Testing
-### Functionality testing
-### Compatibility testing
-### Code Validation
-### User stories testing
-### Issues found during site development
-### Performance testing
+- Functionality testing – Google chrome developers tools used to test different screens responsiveness of webpages, as well on actual mobile phone and large scree monitor.
+- Code Validation – Lighthouse(google dev tools)
+- Issues found during site development – see section problems encountered
+- Performance testing Lighthouse(google dev tools)
+
 
 ## Deployment
+- Deployment made via GitHub pages.  Fork my repository go to setting on forked repository scroll down to GitHub pages and select active branch to be used.
 
 ## Credits
 
