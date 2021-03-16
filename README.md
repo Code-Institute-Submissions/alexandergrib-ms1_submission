@@ -150,8 +150,12 @@ Most of my text and educative information was copied from Wikipedia
 ### Problems encountered: 
 - Git merging branch with local Pycharm. "The “fatal: refusing to merge unrelated histories” Git error"
     - resolved by applying <code>git pull origin master --allow-unrelated-histories</code>
+- Issue with text overflowing boundaries of jumbotron
+    - not fixed yet
+- customer images change shape from circe to oval on samll screen sizes
+    - not fixed yet
   
-  
+
 ## Credits for images used:
   - Hero background  Photo by <a href="https://unsplash.com/@procaffeinator?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Arfan Abdulazeez</a> on [Hero img](https://unsplash.com/photos/oi0FvNhkHy8)
   - black tea img Photo by <a href="https://unsplash.com/@og?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Oleg Guijinsky</a> on <a href="/collections/1564860/tea?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> [black tea](https://unsplash.com/photos/2CRgKZAyPXg)
