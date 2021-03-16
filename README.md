@@ -1,7 +1,7 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 # Milestone 1 project
 
-## [Live website on github pages](https://pioneerko.github.io/ms1/)
+## [Live website on github pages](https://alexandergrib.github.io/ms1/)
 
 # Table of contents
 - [UX](#ux)
