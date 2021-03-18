@@ -147,6 +147,10 @@ Most of my text and educative information was copied from Wikipedia
 - [Tea history](https://en.wikipedia.org/wiki/History_of_tea_in_China)
 - [tea feacts](https://www.healthline.com/nutrition/top-10-evidence-based-health-benefits-of-green-tea#4.-Antioxidants-may-lower-the-risk-of-some-cancers)
 - [black tea page](https://www.lipton.com/us/en/world-of-tea/how-to-brew-black-tea.html)
+- [Green tea page](https://coffeeandteacorner.com/adding-honey-to-green-tea/#:~:text=Final%20thoughts-,So%20can%20you%20add%20honey%20to%20green%20tea%20%3F,keep%20its%20health%2Dimproving%20properties.)
+
+
+
 
 ### Problems encountered: 
 - Git merging branch with local Pycharm. "The “fatal: refusing to merge unrelated histories” Git error"
@@ -174,5 +178,6 @@ Most of my text and educative information was copied from Wikipedia
   - face 1 Photo by <a href="https://unsplash.com/@omidarmin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Omid Armin</a> on <a href="/s/photos/faces?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   - face 2 Photo by <a href="https://unsplash.com/@krivitskiy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alexander Krivitskiy</a> on <a href="/s/photos/faces?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   - black tea Photo by <a href="https://unsplash.com/@hectorfalcon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hector Falcon</a> on <a href="/s/photos/black-tea?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  - green tea photo Photo by <a href="https://unsplash.com/@whatam1?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Arseniy Kapran</a> on <a href="/s/photos/green-tea?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
   
