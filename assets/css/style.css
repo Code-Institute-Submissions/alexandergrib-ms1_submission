@@ -295,7 +295,7 @@ footer h3, footer ul, footer p {
 
 /*----------small screens-------*/
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 600px) {
 
     .jumbo--box {
         background-color: rgba(182, 215, 168, 0.7);
