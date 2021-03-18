@@ -18,7 +18,13 @@ body {
 }
 
 a {
-    color: #ffffff;
+    color: black;
+}
+
+a:hover {
+    color: #0082AF;
+    border-bottom: 1px solid;
+    border-bottom-color: #0082AF;
 }
 
 .container {
@@ -37,11 +43,7 @@ a {
     color: #ffffff;
 }
 
-.navbar a:hover {
-    color: #0082AF;
-    border-bottom: 1px solid;
-    border-bottom-color: #0082AF;
-}
+
 
 
 #logoimg {
@@ -84,8 +86,9 @@ a {
 /*}*/
 
 .hero--img {
-    background: #D0E4F5 url("../img/arfan-abdulazeez-oi0FvNhkHy8-unsplash.jpg") no-repeat fixed 0% 50%;
+    background: #D0E4F5 url("../img/sm_arfan-abdulazeez-oi0FvNhkHy8-unsplash.jpg") repeat-x fixed 50% 0% ;
     height: 350px;
+    width: 100%;
 }
 
 .jumbo--box {
@@ -265,10 +268,11 @@ footer h3, footer ul, footer p {
 
 }
 
-.footer li, .footer p {
+.footer li, .footer p, .footer a{
     font-size: smaller;
     list-style-type: none;
     text-align: left;
+    color: white;
 }
 
 .nav-link {
@@ -370,13 +374,14 @@ footer h3, footer ul, footer p {
     }
 
 
-    .footer li, .footer p {
+    .footer li, .footer p, .footer a {
         font-size: 10px;
         line-height: 10px;
         text-align: left;
         list-style-type: none;
         margin-left: auto;
         margin-right: auto;
+
     }
 
     .payments i {

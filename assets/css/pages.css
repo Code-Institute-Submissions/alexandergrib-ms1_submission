@@ -1,6 +1,6 @@
 .black--tea {
     margin-top: 10vh;
-    /*display: inline-block;*/
+    /*display: block;*/
 
 }
 
@@ -17,7 +17,9 @@ h2, h3 {
     margin-bottom: 20px;
 }
 
-li {
+h3 + ul li, h3 + ol li {
     margin-left: 10px;
     line-height: 26px;
+
+
 }
