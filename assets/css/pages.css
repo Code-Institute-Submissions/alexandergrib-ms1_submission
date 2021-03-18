@@ -1,10 +1,9 @@
-.black--tea {
-    margin-top: 10vh;
+.style--tea{
+    margin-top: 15vh;
     /*display: block;*/
 
 }
-
-.black--tea img {
+.style--tea img{
     height: 300px;
     width: 300px;
     border-radius: 35px;
@@ -20,6 +19,5 @@ h2, h3 {
 h3 + ul li, h3 + ol li {
     margin-left: 10px;
     line-height: 26px;
-
 
 }
