@@ -8,14 +8,7 @@
 
 
 /*---- background colors ----*/
-.color1 {
-    color: #93C47D;
-    color: #53B782;
-    color: #00A790;
-    color: #0096A1;
-    color: #0082AF;
-    color: #006DB5;
-}
+
 
 body {
     font-family: Roboto, sans-serif;
@@ -24,9 +17,10 @@ body {
 
 }
 
-a{
+a {
     color: #ffffff;
 }
+
 .container {
     margin-top: 20px;
 }
@@ -267,7 +261,7 @@ footer h3, footer ul, footer p {
 
 .footer h3 {
     font-size: 18px;
-    text-align: center;
+    /*text-align: center;*/
 
 }
 
@@ -277,6 +271,19 @@ footer h3, footer ul, footer p {
     text-align: left;
 }
 
+.nav-link {
+    margin-bottom: 0;
+    margin-top: 0;
+    padding: .0rem 0rem;
+}
+
+
+#contact-us i {
+    font-size: 30px;
+    letter-spacing: 4px;
+}
+
+
 .payments i {
     color: #1f5699;
     font-size: 30px;
@@ -285,7 +292,7 @@ footer h3, footer ul, footer p {
 
 /*----------small screens-------*/
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 480px) {
 
     .jumbo--box {
         background-color: rgba(182, 215, 168, 0.7);
@@ -349,9 +356,9 @@ footer h3, footer ul, footer p {
     }
 
     .reviews img {
-        height: 150px;
-        width: 150px;
-        border-radius: 75px;
+        height: 80px;
+        width: 80px;
+        border-radius: 50px;
         margin-right: auto;
         margin-left: auto;
     }
@@ -377,6 +384,11 @@ footer h3, footer ul, footer p {
         font-size: 15px;
     }
 
+
+    #contact-us i {
+        font-size: 14px;
+        letter-spacing: 1px;
+    }
 
 }
 

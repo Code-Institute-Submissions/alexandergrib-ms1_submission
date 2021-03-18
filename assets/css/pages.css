@@ -1,0 +1,23 @@
+.black--tea {
+    margin-top: 10vh;
+    /*display: inline-block;*/
+
+}
+
+.black--tea img {
+    height: 300px;
+    width: 300px;
+    border-radius: 35px;
+}
+
+
+h2, h3 {
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+li {
+    margin-left: 10px;
+    line-height: 26px;
+}

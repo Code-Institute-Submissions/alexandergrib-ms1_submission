@@ -146,6 +146,7 @@ Most of my text and educative information was copied from Wikipedia
 - [Traditions text](https://www.mentalfloss.com/article/72891/15-tea-traditions-around-world#:~:text=Drinking%20tea%20is%20a%20tradition,preparations%20evolving%20along%20the%20way.)
 - [Tea history](https://en.wikipedia.org/wiki/History_of_tea_in_China)
 - [tea feacts](https://www.healthline.com/nutrition/top-10-evidence-based-health-benefits-of-green-tea#4.-Antioxidants-may-lower-the-risk-of-some-cancers)
+- [black tea page](https://www.lipton.com/us/en/world-of-tea/how-to-brew-black-tea.html)
 
 ### Problems encountered: 
 - Git merging branch with local Pycharm. "The “fatal: refusing to merge unrelated histories” Git error"
@@ -172,5 +173,6 @@ Most of my text and educative information was copied from Wikipedia
   - tradition 4 Photo by <a href="https://unsplash.com/@teacreative?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tea Creative │ Soo Chung</a> on <a href="/s/photos/teapot?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   - face 1 Photo by <a href="https://unsplash.com/@omidarmin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Omid Armin</a> on <a href="/s/photos/faces?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   - face 2 Photo by <a href="https://unsplash.com/@krivitskiy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alexander Krivitskiy</a> on <a href="/s/photos/faces?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  - black tea Photo by <a href="https://unsplash.com/@hectorfalcon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hector Falcon</a> on <a href="/s/photos/black-tea?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
   
