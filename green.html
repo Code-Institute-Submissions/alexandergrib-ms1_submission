@@ -144,7 +144,7 @@
 </div>
 
 <footer>
-    <div class="container">
+    <div class="container-fluid">
         <div class="row footer">
             <div class="col-3">
                 <h3 class="text-left">Links</h3>
@@ -238,5 +238,8 @@
         integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx"
         crossorigin="anonymous"></script>
 
+<script type="text/javascript"> $('.navbar-nav>li>a').on('click', function(){
+    $('.navbar-collapse').collapse('hide');
+});</script>
 </body>
 </html>

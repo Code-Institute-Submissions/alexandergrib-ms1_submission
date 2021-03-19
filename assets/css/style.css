@@ -225,6 +225,7 @@ a:hover {
 .reviews p {
     margin-top: 30px;
     font-size: small;
+    text-align: justify;
 }
 
 .reviews img {
@@ -245,6 +246,10 @@ a:hover {
 footer {
     background-color: #93C47D;
     height: 200px;
+}
+
+.footer .col-3 {
+    width: 25%;
 }
 
 footer h3, footer ul, footer p {
