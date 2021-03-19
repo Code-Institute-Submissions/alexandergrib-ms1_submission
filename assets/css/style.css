@@ -39,12 +39,20 @@ a:hover {
 
 /*links text color*/
 .navbar-icon-color,
-.navbar a {
+ a {
     color: #ffffff;
 }
 
 
+a {
+    color: #515050;
+}
 
+a:hover {
+    color: #0082AF;
+    border-bottom: 1px solid;
+    border-bottom-color: #0082AF;
+}
 
 #logoimg {
     /*border-color: red;*/
@@ -62,28 +70,6 @@ a:hover {
     border-radius: 50%;
 }
 
-/*!*info line*!*/
-/*.info--line {*/
-/*    height: 40px;*/
-/*    padding: 4px;*/
-/*    margin-top: 66px;*/
-/*    text-align: left;*/
-/*    color: #ec1717;*/
-/*    background-color: blanchedalmond;*/
-/*    letter-spacing: 4px;*/
-/*    border: 1px solid #53B782;*/
-/*    text-shadow: 6px 5px 4px rgba(28,110,164,0.3);*/
-/*}*/
-/*.info--line span{*/
-/*    margin-top: 3px;*/
-/*    margin-left: 10%;*/
-/*    display:inline-block;*/
-/*}*/
-/*.info--line button{*/
-/*    float: right;*/
-/*    margin-right: 10vw;*/
-/*    display:inline-block;*/
-/*}*/
 
 .hero--img {
     background: #D0E4F5 url("../img/sm_arfan-abdulazeez-oi0FvNhkHy8-unsplash.jpg") repeat-x fixed 50% 0% ;
@@ -149,6 +135,7 @@ a:hover {
     text-align: center;
     text-transform: uppercase;
     justify-content: center;
+
 }
 
 
@@ -162,6 +149,7 @@ a:hover {
     background-color: rgba(182, 215, 168, .7);
     border-radius: 25px;
     display: inline-block;
+    border-color: #050505;
 }
 
 .selection--div img {
@@ -277,6 +265,7 @@ footer h3, footer ul, footer p {
 .footer {
     color: #ffffff;
     background-color: #93C47D;
+
 }
 
 .footer h3 {
