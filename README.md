@@ -156,10 +156,11 @@ Most of my text and educative information was copied from Wikipedia
 - Git merging branch with local Pycharm. "The “fatal: refusing to merge unrelated histories” Git error"
     - resolved by applying <code>git pull origin master --allow-unrelated-histories</code>
 - Issue with text overflowing boundaries of jumbotron
-    - not fixed yet
+    - Added :before and :after css to break line in exact place where intended, and reduced size of the text on small screen
 - customer images change shape from circe to oval on samll screen sizes
-    - not fixed yet
-  
+    - fixed by adding @media query to resize image
+- Navbar not collapsing back
+    - fixed by adding script at the bottom of the body [solution found here](https://stackoverflow.com/questions/28472815/bootstrap-navbar-collapse-not-closing-on-click)
 
 ## Credits for images used:
   - Hero background  Photo by <a href="https://unsplash.com/@procaffeinator?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Arfan Abdulazeez</a> on [Hero img](https://unsplash.com/photos/oi0FvNhkHy8)

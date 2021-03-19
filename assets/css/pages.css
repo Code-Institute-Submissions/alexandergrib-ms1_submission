@@ -4,9 +4,9 @@
 
 }
 .style--tea img{
-    height: 300px;
-    width: 300px;
-    border-radius: 35px;
+    height: auto;
+    width: 100%;
+    border-radius: 3rem;
 }
 
 
@@ -21,3 +21,5 @@ h3 + ul li, h3 + ol li {
     line-height: 26px;
 
 }
+
+
