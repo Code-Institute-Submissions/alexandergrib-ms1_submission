@@ -24,13 +24,13 @@
 # UX
 
 ## Website owner business goals
-As the site owner of this imaginary teashop, I want to deliver clean and easy to read information about different types of the tea that exist in the world.  Such as green, black, white and pu’er teas. As a business I want to give opportunity to my visitors personally try different types of tea on weekly subscription basis.  
+As the site owner of this imaginary teashop, I want to deliver clean and easy to read information about different types of tea that exist in the world.  Such as green, black, white and pu’er teas. As a business I want to give opportunity to my visitors personally try different types of tea on weekly subscription basis.  
 Also, I wish to help customers to get clear understanding how tea is grown, how it processed and delivered around the globe and end up in their morning cuppa.
 ## User goals
 - Me as a user i want to have easy navigational bar
 - Simplicity of reading headlines and have a  clear view of pictures
 - Ability to navigate between pages and possibility to return to the home page whiting one click
-- Site must be readable under all screen size must include mobile in my case it would be Samsung s8 and it should work with tablet screen and under high res desktop screen
+- Site must be readable under all screen size must include mobile in my case it would be Samsung s8 and it should work with tablet screen and under high-res desktop screen
 - Web site should contain media gallery inside picture snippets with rounded edges and light border, with a possibility to scroll itself
 
 
@@ -50,7 +50,7 @@ Also, I wish to help customers to get clear understanding how tea is grown, how 
 - 5
 
 # Structure of the website
-The website is setup to be used on as many devices as possible, this includes small mobile phones as well as extra-large 4k tv screens. Website suppose to be easy to navigate between sections by clicking required link in the navbar. Also includes easily accessible contact me form with thank you message after completing and send.
+The website is set up to be used on as many devices as possible, this includes small mobile phones as well as extra-large 4k tv screens. Website has to be easy to navigate between sections by clicking required link in the navbar. Also includes easily accessible contact me form with thank you message after completing and send.
 There are small differences on some pages between mobile and desktop, to have a better visualisation of the content, based on the device. 
 
 # Wireframes
@@ -60,7 +60,7 @@ Wireframes can be found here: #show images of wirefames
 # Surface
 ## Fonts
 I decided to go with google Roboto font and sans-serif as a fall-back font.
-I think Roboto font is most used font across whole internet and it would not look too different for the user coming from any website they used to use. 
+I think Roboto font is a most used font across whole internet, and it would not look too different for the user coming from any website they used to use. 
 
 
 ## Colors
