@@ -247,18 +247,6 @@ h1 {
 }
 
 
-footer {
-    background-color: #93C47D;
-    height: 200px;
-}
-
-.footer .col-3 {
-    width: 25%;
-}
-
-footer h3, footer ul, footer p {
-    margin-top: 10px;
-}
 
 .underground {
     height: 10px;
@@ -276,28 +264,43 @@ footer h3, footer ul, footer p {
     background-color: rgba(182, 215, 168, .7);
 }
 
+
+.footer .col-4 {
+    width: 33.33%;
+}
+
 .footer--div {
     color: #ffffff;
     background-color: #93C47D;
-
+    margin-left: 2vw;
 }
 
 
 .footer--div li, .footer--div p, .footer--div a {
     font-size: small;
     list-style-type: none;
-    text-align: left;
+    text-align: center;
     color: white;
     padding: 0px;
 
+
 }
 
-.footer--div {
-    margin-left: 5vw;
+footer {
+    background-color: #93C47D;
+    height: 200px;
 }
+
+
+
+footer h3, footer ul, footer p {
+    margin-top: 10px;
+}
+
 
 .footer--div h3 {
     font-size: 20px;
+    text-align: center;
 }
 
 #contact-us i {
@@ -381,6 +384,7 @@ footer h3, footer ul, footer p {
 
     .footer--div h3 {
         font-size: 18px;
+        text-align: center;
     }
 
     .footer--div {
@@ -391,7 +395,7 @@ footer h3, footer ul, footer p {
     .footer--div li, .footer--div p, .footer--div a {
         font-size: 10px;
         line-height: 10px;
-        text-align: left;
+        text-align: center;
         list-style-type: none;
         margin-left: auto;
         margin-right: auto;

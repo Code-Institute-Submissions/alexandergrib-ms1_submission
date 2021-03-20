@@ -187,7 +187,8 @@ The website is a single page with interactive links to sections on the page with
 
 
 ## Credits  
-  
+
+### Credits for text and modules
 Skeleton structure of the README.md file was copied from [Jacqueline Kraus](https://github.com/jacqueline-kraus/MS1-Discover-NZ)  
 Most of my text and educative information was copied from Wikipedia  
 - [bootstap carousel](https://getbootstrap.com/docs/4.0/components/carousel/)  
@@ -217,14 +218,14 @@ Most of my text and educative information was copied from Wikipedia
  - green tea Photo by <a href="https://unsplash.com/@teacreative?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tea Creative │ Soo Chung</a> on <a href="/s/photos/green-tea?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> https://unsplash.com/photos/SpnGFRf0Nmk  
  - white tea By <a href="https://en.wikipedia.org/wiki/User:Iateasquirrel" class="extiw" title="en:User:Iateasquirrel">Iateasquirrel</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=553061">Link</a>  
  - puer tea <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=603774">Link</a>  
- - teacup Photo by <a href="https://unsplash.com/@teacora?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">TeaCora Rooibos</a> on <a href="/s/photos/tea?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> https://unsplash.com/photos/FnTWsBohkdo  
- - tea tradition 1 Photo by <a href="https://unsplash.com/@lauraadaiphoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">laura adai</a> on <a href="/s/photos/tea-traditions?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>  
- - tea tradition 2 Photo by <a href="https://unsplash.com/@igorstarkoff?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Igor Starkov</a> on <a href="/s/photos/teapot?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>  
- - tradition 3 Photo by <a href="https://unsplash.com/@pursuit_of_shutter?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ranit Chakraborty</a> on <a href="/s/photos/teapot?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>  
- - tradition 4 Photo by <a href="https://unsplash.com/@teacreative?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tea Creative │ Soo Chung</a> on <a href="/s/photos/teapot?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>  
- - face 1 Photo by <a href="https://unsplash.com/@omidarmin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Omid Armin</a> on <a href="/s/photos/faces?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>  
- - face 2 Photo by <a href="https://unsplash.com/@krivitskiy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alexander Krivitskiy</a> on <a href="/s/photos/faces?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>  
- - black tea Photo by <a href="https://unsplash.com/@hectorfalcon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hector Falcon</a> on <a href="/s/photos/black-tea?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>  
- - green tea photo Photo by <a href="https://unsplash.com/@whatam1?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Arseniy Kapran</a> on <a href="/s/photos/green-tea?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>  
- - white tea Photo by <a href="https://unsplash.com/@toma_sh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tamara Schipchinskaya</a> on <a href="/s/photos/white-tea?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>  
- - puer tea Photo by <a href="https://unsplash.com/@oriento?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">五玄土 ORIENTO</a> on <a href="/s/photos/puer-tea?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+ - teacup Photo by <a href="https://unsplash.com/@teacora?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">TeaCora Rooibos</a>
+ - tea tradition 1 Photo by <a href="https://unsplash.com/@lauraadaiphoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">laura adai</a>
+ - tea tradition 2 Photo by <a href="https://unsplash.com/@igorstarkoff?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Igor Starkov</a>
+ - tradition 3 Photo by <a href="https://unsplash.com/@pursuit_of_shutter?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ranit Chakraborty</a>
+ - tradition 4 Photo by <a href="https://unsplash.com/@teacreative?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tea Creative │ Soo Chung</a>
+ - face 1 Photo by <a href="https://unsplash.com/@omidarmin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Omid Armin</a>
+ - face 2 Photo by <a href="https://unsplash.com/@krivitskiy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alexander Krivitskiy</a>
+ - black tea Photo by <a href="https://unsplash.com/@hectorfalcon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hector Falcon</a>  
+ - green tea photo by <a href="https://unsplash.com/@whatam1?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Arseniy Kapran</a>  
+ - white tea Photo by <a href="https://unsplash.com/@toma_sh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tamara Schipchinskaya</a>
+ - puer tea Photo by <a href="https://unsplash.com/@oriento?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">五玄土 ORIENTO</a> 
