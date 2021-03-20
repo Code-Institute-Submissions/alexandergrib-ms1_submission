@@ -166,6 +166,12 @@ Most of my text and educative information was copied from Wikipedia
     - fixed by adding @media query to resize image
 - Navbar not collapsing back
     - fixed by adding script at the bottom of the body [solution found here](https://stackoverflow.com/questions/28472815/bootstrap-navbar-collapse-not-closing-on-click)
+- Issue with alignment of columns in footer section
+    - not fixed yet, researching for the solution.
+  
+
+
+
 
 ## Credits for images used:
   - Hero background  Photo by <a href="https://unsplash.com/@procaffeinator?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Arfan Abdulazeez</a> on [Hero img](https://unsplash.com/photos/oi0FvNhkHy8)

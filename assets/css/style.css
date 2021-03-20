@@ -266,46 +266,38 @@ footer h3, footer ul, footer p {
     background-color: rgba(182, 215, 168, .7);
 }
 
-.footer {
+.footer--div {
     color: #ffffff;
     background-color: #93C47D;
 
 }
 
-.footer h3 {
-    font-size: 18px;
-}
 
-.footer li, .footer p, .footer a {
+.footer--div li, .footer--div p, .footer--div a {
     font-size: smaller;
     list-style-type: none;
     text-align: left;
     color: white;
+    padding: 0px;
+
 }
 
-.nav-link {
-    margin-bottom: 0;
-    margin-top: 0;
-    padding: .0rem 0rem;
-
+.footer--div {
+    margin-left: 5vw;
 }
 
 
 #contact-us i {
-    font-size: 30px;
-    letter-spacing: 4px;
+    font-size: 24px;
+    letter-spacing: 3px;
 }
 
-
-.payments i {
-    color: #1f5699;
-    font-size: 30px;
-}
 
 /*----------small screens-------*/
 
 @media screen and (max-width: 600px) {
 
+    /*----------------------------*/
     .jumbo--box {
         background-color: rgba(32, 83, 32, 0.9);
         position: relative;
@@ -374,32 +366,28 @@ footer h3, footer ul, footer p {
         margin-left: auto;
     }
 
+    .footer--div h3 {
+        font-size: 18px;
+    }
 
-    .footer h3 {
-        font-size: 14px;
-
+    .footer--div {
+        margin-left: 1vw;
     }
 
 
-    .footer li, .footer p, .footer a {
+    .footer--div li, .footer--div p, .footer--div a {
         font-size: 10px;
         line-height: 10px;
         text-align: left;
         list-style-type: none;
         margin-left: auto;
         margin-right: auto;
-
-    }
-
-    .payments i {
-        color: #1f5699;
-        font-size: 15px;
     }
 
 
     #contact-us i {
-        font-size: 14px;
-        letter-spacing: 1px;
+        font-size: 24px;
+        letter-spacing: 3px;
     }
 
 }
