@@ -384,6 +384,7 @@ footer h3, footer ul, footer p {
 
     .footer--div h3 {
         font-size: 18px;
+        text-transform: uppercase;
         text-align: center;
     }
 
