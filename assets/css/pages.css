@@ -21,7 +21,7 @@ h2, h3 {
     text-align: center;
     margin-bottom: 20px;
 }
-
+/*text next to image*/
 h3 + ul li, h3 + ol li, p {
     margin-left: 10px;
     line-height: 26px;
@@ -31,4 +31,16 @@ h3 + ul li, h3 + ol li, p {
 
 .btn {
     margin-bottom: 20px;
+}
+
+
+
+.footer--div h3 {
+    font-size: 20px;
+    text-align: left;
+}
+
+.footer--div p, .footer--div h3 + ul li{
+    margin-left: 0px;
+    padding: 0px;
 }

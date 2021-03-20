@@ -274,7 +274,7 @@ footer h3, footer ul, footer p {
 
 
 .footer--div li, .footer--div p, .footer--div a {
-    font-size: smaller;
+    font-size: small;
     list-style-type: none;
     text-align: left;
     color: white;
@@ -286,6 +286,9 @@ footer h3, footer ul, footer p {
     margin-left: 5vw;
 }
 
+.footer--div h3 {
+    font-size: 20px;
+}
 
 #contact-us i {
     font-size: 24px;
@@ -371,7 +374,7 @@ footer h3, footer ul, footer p {
     }
 
     .footer--div {
-        margin-left: 1vw;
+        margin-left: 2vw;
     }
 
 
