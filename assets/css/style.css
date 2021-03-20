@@ -17,9 +17,6 @@ body {
 
 }
 
-a {
-    color: #515050;
-}
 
 a:hover {
     color: #0082AF;
@@ -33,7 +30,7 @@ a:hover {
 
 .navbar {
     background-color: #93C47D;
-    color: #a7a7a7;
+    color: #ffffff;
     text-transform: uppercase;
 }
 
@@ -45,7 +42,7 @@ a {
 
 
 a {
-    color: #515050;
+    color: #ffffff;
 }
 
 a:hover {
@@ -167,6 +164,19 @@ a:hover {
 .selection--div h3 {
     text-transform: uppercase;
 }
+
+.selection--div a {
+    color: #474545;
+    border-bottom: 1px solid;
+    border-bottom-color: #0082AF;
+}
+
+.selection--div a:hover {
+    color: #0082AF;
+    border-bottom: 1px solid;
+    border-bottom-color: #0082AF;
+}
+
 
 .selection--div p {
     font-size: 80%;
