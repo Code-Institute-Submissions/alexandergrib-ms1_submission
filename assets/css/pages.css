@@ -37,10 +37,14 @@ h3 + ul li, h3 + ol li, p {
 
 .footer--div h3 {
     font-size: 20px;
-    text-align: left;
+
 }
 
 .footer--div p, .footer--div h3 + ul li{
     margin-left: 0px;
     padding: 0px;
+}
+
+.btn-outline-success {
+    text-transform: uppercase;
 }
