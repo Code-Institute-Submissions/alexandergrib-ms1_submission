@@ -14,7 +14,7 @@ body {
     font-family: Roboto, sans-serif;
     background-color: rgba(68, 177, 68, 0.3);
     color: #474545;
-    scroll-behaviour: smooth;
+    scroll-behavior : smooth
 
 }
 
@@ -143,8 +143,6 @@ a:hover {
     margin-top: 20px;
     text-align: center;
     text-transform: uppercase;
-    -webkit-box-pack: center;
-    -ms-flex-pack: center;
     justify-content: center;
 }
 
@@ -169,8 +167,6 @@ a:hover {
 
 .selection--div h3, .selection--div p {
     margin-top: 8px;
-    -webkit-box-pack: center;
-    -ms-flex-pack: center;
     justify-content: center;
     text-align: center;
 
