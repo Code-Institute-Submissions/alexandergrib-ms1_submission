@@ -14,9 +14,14 @@ body {
     font-family: Roboto, sans-serif;
     background-color: rgba(68, 177, 68, 0.3);
     color: #474545;
+    scroll-behaviour:smooth;
 
 }
 
+hr{
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
 
 a:hover {
     color: #0082AF;
@@ -190,11 +195,15 @@ a:hover {
 h1 {
     text-transform: uppercase;
 }
-
-#ceremonies h1 {
-    margin-bottom: 20px;
-
+/* carousel*/
+#carousel, #history {
+    padding-top: 50px;
 }
+#ceremonies{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
 
 .carousel-caption {
     color: white;
@@ -211,8 +220,8 @@ h1 {
 .history--container {
     text-transform: uppercase;
     text-align: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    /*margin-top: 40px;*/
+    /*margin-bottom: 20px;*/
 }
 
 .history--container .jumbotron {
@@ -241,11 +250,14 @@ h1 {
 }
 
 
-.about-us {
+#about--us {
     margin-top: 100px;
     margin-bottom: 100px;
-}
 
+}
+#about--us h2{
+    margin-bottom: 30px;
+}
 
 .underground {
     height: 10px;

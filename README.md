@@ -167,6 +167,7 @@ The website is a single page with interactive links to sections on the page with
 - Deployment made via GitHub pages.  For my repository go to Setting on forked repository scroll down to GitHub pages and select active branch to be used.  
   
  ## Bugs
+
  
 ### Problems encountered: 
 - Git merging branch with local Pycharm. "The “fatal: refusing to merge unrelated histories” Git error"  
@@ -180,9 +181,10 @@ The website is a single page with interactive links to sections on the page with
 - Image on the tea page have text overlapping image
 	- fixed by setting image height and width to responsive instead of fixed values
 - Issue with alignment of columns in footer section  
-  - not fixed yet, researching for the solution.  
-    
-
+  - Added div container around row, this helped to squeeze columns bit closer to the center. (Tutor Assisted with solution)
+  
+- Headers are hiding under navbar when link to sections are clicked    
+  - Wrapped section in div and set padding top in css. (Tutor Assisted with solution)
 
 
 
