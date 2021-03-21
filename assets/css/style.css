@@ -14,11 +14,16 @@ body {
     font-family: Roboto, sans-serif;
     background-color: rgba(68, 177, 68, 0.3);
     color: #474545;
-    scroll-behaviour:smooth;
+    scroll-behaviour: smooth;
 
 }
 
-hr{
+img {
+    max-width: 100%;
+    height: auto
+}
+
+hr {
     margin-top: 50px;
     margin-bottom: 0px;
 }
@@ -195,11 +200,13 @@ a:hover {
 h1 {
     text-transform: uppercase;
 }
+
 /* carousel*/
 #carousel, #history {
     padding-top: 50px;
 }
-#ceremonies{
+
+#ceremonies {
     margin-top: 20px;
     margin-bottom: 30px;
 }
@@ -255,7 +262,8 @@ h1 {
     margin-bottom: 100px;
 
 }
-#about--us h2{
+
+#about--us h2 {
     margin-bottom: 30px;
 }
 
@@ -305,7 +313,7 @@ footer {
 
 footer h3, footer ul, footer p {
     margin-top: 10px;
-        text-shadow: -1px 1px 1px rgba(0, 0, 0, .2),
+    text-shadow: -1px 1px 1px rgba(0, 0, 0, .2),
     1px 1px 1px rgba(0, 0, 0, .2),
     1px -1px 0 rgba(0, 0, 0, .2),
     -1px -1px 0 rgba(0, 0, 0, .2);
