@@ -4,7 +4,7 @@
   
 ## [Live website on github pages](https://alexandergrib.github.io/ms1/)  
   
-![Responcive display](helping_materials/responcive-img.JPG)
+![Responsive display](helping_materials/responcive-img.JPG)
 
 ---
 # Table of contents  
@@ -143,6 +143,7 @@ The website is a single page with interactive links to sections on the page with
 - Github  
 - Git  
 - Balsamiq  
+- [Trello](https://trello.com/b/AimOKUHW/ms1-project) for KANBAN project organizing
   
 ## Testing  
 ### Mobile
@@ -164,7 +165,7 @@ The website is a single page with interactive links to sections on the page with
 
 
 ## Deployment  
-- Deployment made via GitHub pages.  For my repository go to Setting on forked repository scroll down to GitHub pages and select active branch to be used.  
+- Deployment made via GitHub pages.  Fork my repository, then go to Setting on forked repository scroll down to GitHub Pages and select in Source section the branch to be used.  
   
  ## Bugs
 
