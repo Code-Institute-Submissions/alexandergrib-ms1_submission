@@ -14,7 +14,7 @@ body {
     font-family: Roboto, sans-serif;
     background-color: rgba(68, 177, 68, 0.3);
     color: #474545;
-    scroll-behavior : smooth
+    scroll-behavior: smooth
 
 }
 
@@ -23,7 +23,7 @@ img {
     height: auto
 }
 
-h1{
+h1 {
     font-weight: 600;
     letter-spacing: 2px;
 }
@@ -84,6 +84,13 @@ a:hover {
     height: 350px;
     width: 100%;
 }
+
+
+
+
+
+
+
 
 .jumbo--box {
     background-color: rgba(32, 83, 32, 0.9);
