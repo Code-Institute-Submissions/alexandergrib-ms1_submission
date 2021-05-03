@@ -167,11 +167,13 @@ a:hover {
     padding-top: 10px;
     padding-bottom: 20px;
     text-transform: uppercase;
+    font-weight: 300;
 }
 
 .how-to-container h3 {
     padding-bottom: 3px;
     text-transform: uppercase;
+    font-weight: 300;
 }
 
 .how-to-container p {
@@ -198,13 +200,13 @@ a:hover {
 .what-you-get h3 {
     text-align: center;
     text-transform: uppercase;
+    font-weight: 300;
 }
 
 
 .list-wrapper {
     display: flex;
     align-items: center;
-    width: 40%;
     font-size: 1.3rem;
     margin: 0 auto;
 }
