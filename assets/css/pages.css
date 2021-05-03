@@ -1,14 +1,13 @@
-.nav-link{
+.nav-link {
     margin-right: 10px;
 }
 
 
-
-.style--tea{
+.style--tea {
     margin-top: 15vh;
 }
 
-.style--tea img{
+.style--tea img {
     height: auto;
     width: 100%;
     border-radius: 3rem;
@@ -20,6 +19,7 @@ h2, h3 {
     text-align: center;
     margin-bottom: 20px;
 }
+
 /*text next to image*/
 h3 + ul li, h3 + ol li, p {
     margin-left: 10px;
@@ -33,17 +33,44 @@ h3 + ul li, h3 + ol li, p {
 }
 
 
-
 .footer--div h3 {
     font-size: 20px;
 
 }
 
-.footer--div p, .footer--div h3 + ul li{
+.footer--div p, .footer--div h3 + ul li {
     margin-left: 0px;
     padding: 0px;
 }
 
 .btn-outline-success {
     text-transform: uppercase;
+}
+
+
+.delivery-body-container {
+    clear: both;
+    width: 60%;
+    padding-top: 50px;
+    align-content: center;
+    text-align: center;
+}
+
+.delivery-body-container h1 {
+    padding-top: 30px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    font-size: 2.5rem;
+
+}
+
+.delivery-body-container h2{
+    padding-top: 50px;
+    font-weight: 300;
+}
+
+.delivery-body-container p {
+    text-align: center;
+    letter-spacing: 1px;
+    line-height: 2.5rem;
 }
