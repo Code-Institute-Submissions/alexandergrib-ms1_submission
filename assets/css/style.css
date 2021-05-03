@@ -97,9 +97,9 @@ a:hover {
 }
 
 .brand-name-container sup {
-    top: -1.8em;
+    top: -1.5em;
     position: relative;
-    font-size: 50%;
+    font-size: 60%;
     line-height: 0;
     vertical-align: baseline;
 }
@@ -178,8 +178,8 @@ a:hover {
     padding-top: 10px;
 }
 
-img {
-    height: 300px;
+.how-to-container img {
+    height: 350px;
     width: auto;
     border-radius: 1.5rem;
 }
