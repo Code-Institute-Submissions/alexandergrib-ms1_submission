@@ -174,6 +174,43 @@ The website is a single page with interactive links to sections on the page with
   - Accessibility score: 93  
   - Best Practices score 93  
   
+  ### User stories testing
+  Each user stories tested throughout website
+> As a user, I want have easy and intuitive navigation through the website  
+  
+  Navigational bar is implemented into website, so any customer is able to access relative information quick and easy.
+   Navigational bar on Medium and Large screens:
+  ![Navigation on large screen](assets/img/navbar-desktop.png)
+  
+Navigational bar on Medium and Large screens:
+
+![Navigation on small screen](assets/img/navbar-mobile.png)
+
+
+
+>  As a user, I want to be able easily access contact details
+
+Contact us form is implemented.
+![contact us form](assets/img/contact_us_form.png)
+
+
+> As a user, I want to see relevant information about products offered on the website
+
+Implemented description how to order, what customer will receive and selection of choices to pick from.
+![product info](assets/img/user_product_info.png)
+
+>  As a user, I want to see reviews about products offered which would help me make my decision about specific item I may be interested.
+
+Implemented "what customers think about us" section displaying reviews on home page
+
+![customer reviews](assets/img/what_customer_think.png)
+
+> As a user, I want to find out more about how tea was discovered
+
+Implemented history section:
+![History section](assets/img/history.png)
+
+---
   ### Manual testing
   Throughout the website every link, button, icon and image was tested and all results are displayed in the table below:
   
@@ -262,7 +299,7 @@ Further reading and troubleshooting on cloning a repository from GitHub  [here](
 - Headers are hiding under navbar when link to sections are clicked      
   - Wrapped section in div and set padding top in css. (Tutor Assisted with solution)  
   
-  
+
   
 ## Credits   
 
