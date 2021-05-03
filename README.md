@@ -59,6 +59,7 @@
 - As a user, I want to see relevant information about products offered on the website  
 - As a user, I want to see reviews about products offered which would help me make my decision about specific item I may be interested.  
 - As a user, I want to find out more about how tea was discovered  
+- As a user, I want to have option to stop subscription if I wish to
  
 ---
    
@@ -243,6 +244,12 @@ Implemented "what customers think about us" section displaying reviews on home p
 
 Implemented history section:
 ![History section](assets/img/history.png)
+
+
+> As a user, I want to have option to stop subscription if I wish to
+
+Implemented Delivery and Returns page giving cistomer information about delivery and cancellations
+![Delivery and returns section](assets/img/delivery_cancelations.png)
 
 ---
 
