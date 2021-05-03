@@ -6,7 +6,9 @@
  ![Responsive display](helping_materials/responcive-img.JPG)  
   
 ---  
-# Table of contents - [UX](#ux)    
+# Table of contents 
+
+- [UX](#ux)    
   - [Website owner business goals](#website-owner-business-goals)    
   - [User goals](#user-goals)    
   - [User stories](#user-stories)    
@@ -26,21 +28,25 @@
     
     
 # UX    
- ## Website owner business goals As the site owner of this imaginary teashop, I want to deliver clean and easy to read information about different types of tea that exist in the world.  Tea varieties offered on the website are green, black, white and pu’er teas. As a business I want to give opportunity to my visitors to personally try different types of tea by getting in touch with us through the contact form.      
-Also, I would like to help customers learn more about how tea is grown, how it processed and delivered around the globe and end up in their morning cup of tea.    
+ ## Website owner business goals 
+ - As the site owner of this imaginary teashop, I want to deliver clean and easy to read information about different types of tea that exist in the world.  Tea varieties offered on the website are green, black, white and pu’er teas. 
+ -  As a business I want to give opportunity to my visitors to personally try different types of tea by getting in touch with us through the contact form.    Also, I would like to help customers learn more about how tea is grown, how it processed and delivered around the globe and end up in their morning cup of tea.    
   
   
   
-## User goals - As a user I want to have easy navigation   
+## User goals
+
+- As a user I want to have easy navigation and intuitive navigation through the website   
 - Simplicity of reading headlines and have a clear view of pictures    
 - Ability to navigate between pages and possibility to return to the home page whiting one click    
-- Site must be readable under all screen sizes, must include mobile (in my case it would be Samsung s8) and it should work with tablet screen and under high-res desktop screen    
-- Web site should contain media gallery inside picture snippets with rounded edges and light border, with a possibility to scroll itself    
+- Site must be readable under all screen sizes, must include mobile (in my case it would be Samsung s8), and it should work with tablet screen and under high-res desktop screen    
+- Website should contain media gallery inside picture snippets with rounded edges and light border, with a possibility to scroll itself    
     
     
 ## User stories 
 
 ### As a business owner: 
+
 - I want to provide in-depth information about the products I offer through  click-in option on product images    
 - To place an order and enquire further about the subscription user should fill out  “Contact me” form.    
     
@@ -48,12 +54,14 @@ Also, I would like to help customers learn more about how tea is grown, how it p
     
 ### As a new customer: 
 
-- As a user, I want have easy and intuitive navigation through the website  
+- As a user, I want to have easy and intuitive navigation through the website  
 - As a user, I want to be able easily access contact details   
 - As a user, I want to see relevant information about products offered on the website  
 - As a user, I want to see reviews about products offered which would help me make my decision about specific item I may be interested.  
 - As a user, I want to find out more about how tea was discovered  
-    
+ 
+---
+   
 # Structure of the website 
 
 The website is set up to be used on as many devices as possible, this includes small mobile phones as well as extra-large 4k tv screens. Website has to be easy to navigate between sections by clicking required link in the navigation bar. Also includes easily accessible "contact me" form with acknowledgement message after completing and send.    
@@ -61,11 +69,13 @@ There are small differences on some pages between mobile and desktop, to have a 
     
 # Wireframes Wireframes can be found here:  
 
-##### [Desktop](wireframes/desktop.png)  
-##### [Tablet](wireframes/tablet.png)  
-##### [Mobile](wireframes/mobile.png)  
+ [Desktop](wireframes/desktop.png)  
+ [Tablet](wireframes/tablet.png)  
+ [Mobile](wireframes/mobile.png)  
+ 
  ---
- # Surface
+ 
+ # Surface 
  
   ## Fonts
   
@@ -142,7 +152,7 @@ The website is a single page with interactive links to sections on the page with
     
 ## Features left to implement: 
 
-- Fix footer to display sections evenly across all screen sizes  
+- 
     
 ## Technologies used: - HTML:     
 
@@ -155,7 +165,28 @@ The website is a single page with interactive links to sections on the page with
 - Balsamiq    
 - [Trello](https://trello.com/b/AimOKUHW/ms1-project) for KANBAN project organizing  
     
-## Testing 
+
+---
+
+# Testing 
+
+## Automated testing
+
+### HTML W3 code validator
+
+HTML displaying 1 error message:
+> Consider using the `h1` element as a top-level heading only
+
+This error appear because my h1 element is wrapped inside div element. Its done to position elements properly.
+Decided to ignore this error, as it's not causing website to malfunction.
+![W3HTML](assets/img/w3_html.png)
+
+### CSS w3 validator
+
+No error are detected.
+
+
+## Google chrome developers tool
 
 ### Mobile  
 - Functionality testing – I used Google chrome developers tools to test different screens responsiveness of webpages, as well on actual mobile phone and large screen monitor.    
@@ -174,7 +205,10 @@ The website is a single page with interactive links to sections on the page with
   - Accessibility score: 93  
   - Best Practices score 93  
   
-  ### User stories testing
+---
+  
+  # User stories testing
+  
   Each user stories tested throughout website
 > As a user, I want have easy and intuitive navigation through the website  
   
@@ -211,7 +245,8 @@ Implemented history section:
 ![History section](assets/img/history.png)
 
 ---
-  ### Manual testing
+
+  ## Manual testing
   Throughout the website every link, button, icon and image was tested and all results are displayed in the table below:
   
 | Location | Type | Expected Result | Actual Result | Pass/Fail |
@@ -239,13 +274,14 @@ Implemented history section:
 | *domain*/green.html | <BLACK TEA / WHITE TEA> button-link | *Click* on WHITE TEA button redirects to  *domain*/white.html | Redirected to  *domain*/white.html  | Pass |
 | *domain*/white.html | <GREEN TEA / PU'ER TEA> button-link | *Click* on PU'ER TEA button redirects to  *domain*/puer.html | Redirected to  *domain*/puer.html  | Pass |
 | *domain*/puer.html | <WHITE TEA button-link | *Click* on WHITE TEA button redirects to  *domain*/white.html | Redirected to  *domain*/white.html  | Pass |
-|  |  |  |  |  |
 
 
 
-## Deployment
+---
 
-### Deploying on GitHub Pages
+# Deployment
+
+## Deploying on GitHub Pages
  1.  Log into  [GitHub](https://github.com/)  or  [create an account](https://github.com/).
 2.  Locate the  [GitHub Repository](https://github.com/alexandergrib/ms1).
 3.  At the top of the repository, select Settings from the menu items.
@@ -255,14 +291,14 @@ Implemented history section:
 7.  Scroll back down to the "GitHub Pages" section to retrieve the deployed link.
 
 
-### Forking the Repository
+## Forking the Repository
 
 1.  Log into  [GitHub](https://github.com/)  or  [create an account](https://github.com/).
 2.  Locate the  [GitHub Repository](https://github.com/alexandergrib/ms1).
 3.  At the top of the repository, on the right side of the page, select "Fork".
 4.  You should now have a copy of the original repository in your GitHub account.
     
-### How to run this project within a local IDE, such as Pycharm/VScode
+## How to run this project within a local IDE, such as Pycharm/VScode
 
 1.  Log into  [GitHub](https://github.com/)  or  [create an account](https://github.com/).    
 2.  Locate the  [GitHub Repository](https://github.com/alexandergrib/ms1).    
@@ -278,8 +314,11 @@ Implemented history section:
 
 Further reading and troubleshooting on cloning a repository from GitHub  [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository). 
 
-   
- ## Bugs  
+
+---
+  
+
+ # Bugs  
   
   ### Problems encountered: 
 
@@ -299,11 +338,11 @@ Further reading and troubleshooting on cloning a repository from GitHub  [here](
 - Headers are hiding under navbar when link to sections are clicked      
   - Wrapped section in div and set padding top in css. (Tutor Assisted with solution)  
   
-
+---
   
-## Credits   
+# Credits   
 
-### Credits for text and modules  
+## Credits for text and modules  
 
 Skeleton structure of the README.md file was copied from [Jacqueline Kraus](https://github.com/jacqueline-kraus/MS1-Discover-NZ)    
 Most of my text and educative information was copied from Wikipedia    
