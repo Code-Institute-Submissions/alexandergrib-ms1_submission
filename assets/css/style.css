@@ -42,7 +42,7 @@ a:hover {
 .container {
     margin-top: 20px;
 }
-
+/*--navbar--*/
 .navbar {
     background-color: #93C47D;
     color: #ffffff;
@@ -87,9 +87,22 @@ a:hover {
 
 
 .brand-name-container {
+    position: relative;
     text-align: center;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    left: 1%;
 }
 
+.brand-name-container sup {
+    top: -1.8em;
+    position: relative;
+    font-size: 50%;
+    line-height: 0;
+    vertical-align: baseline;
+}
 
 /*---jumbotron--------------*/
 
@@ -105,6 +118,8 @@ a:hover {
     margin-bottom: 0;
     color: #ffffff;
 }
+
+
 
 #welcome--hdr {
     position: relative;
@@ -160,7 +175,11 @@ a:hover {
     text-transform: uppercase;
 }
 
-.how-to-container img {
+.how-to-container p {
+    padding-top: 10px;
+}
+
+img {
     height: 300px;
     width: auto;
     border-radius: 1.5rem;
@@ -180,8 +199,8 @@ a:hover {
 .what-you-get h3 {
     text-align: center;
     text-transform: uppercase;
-
 }
+
 
 .list-wrapper {
     display: flex;
@@ -206,7 +225,7 @@ a:hover {
 /*--Tea selection-------*/
 #tea-selection {
     width: 100%;
-    margin-top: 20px;
+    margin-top: 35px;
     text-align: center;
     text-transform: uppercase;
     justify-content: center;
@@ -496,6 +515,10 @@ footer h3, footer ul, footer p {
     #contact-us i {
         font-size: 24px;
         letter-spacing: 3px;
+    }
+
+    .brand-name-container {
+        left: 0;
     }
 
 }
