@@ -207,7 +207,17 @@ No error are detected.
   - Best Practices score 93  
   
 ---
-  
+## Responsiveness testing
+ - Tested in Google Chrome, Mozilla, Edge browsers in full screen mode
+   - [Full screen view](assets/img/responcivness_full.png)
+ - Adjusted screen to 1024px(Ipad pro)
+   - [1024px](assets/img/responcivness_1024.png)
+ - Adjusted screen to 320px. This screen size have an issue displaying in Google Chrome, it but looks better in mozilla
+   - [Chrome-320px](assets/img/responcivnes_320px.png),
+   - [Mozzilla-320px](assets/img/responcivness-320-moz.png)
+   
+
+
   # User stories testing
   
   Each user stories tested throughout website
@@ -344,7 +354,9 @@ Further reading and troubleshooting on cloning a repository from GitHub  [here](
     
 - Headers are hiding under navbar when link to sections are clicked      
   - Wrapped section in div and set padding top in css. (Tutor Assisted with solution)  
-  
+- Some images overflowing  screen in small resolution (320px)
+    - [320px image overflowing](assets/img/responcivness_bug_320px.png)
+    - need to find solution how to fix it. Website looks good above 550px wide.
 ---
   
 # Credits   
