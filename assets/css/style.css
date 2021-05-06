@@ -353,10 +353,8 @@ h1 {
 }
 
 .underground {
-    height: 10px;
-    text-align: right;
+    height: 12px;
     font-size: 12px;
-    margin-right: 15%;
 }
 
 .modal {
