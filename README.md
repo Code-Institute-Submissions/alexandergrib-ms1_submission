@@ -7,7 +7,7 @@
   
 ---  
 # Table of contents 
-
+- [Introduction](#INTRODUCTION)
 - [UX](#ux)    
   - [Website owner business goals](#website-owner-business-goals)    
   - [User goals](#user-goals)    
@@ -26,6 +26,11 @@
    - [Problems encountered](#problems-encountered)  
 - [Credits](#credits)    
     
+
+#INTRODUCTION
+This website is built for the private tea shop, which offering tea delivery by subscription service.
+Website feature different variety of tea to choose from, as well as some useful information to user, such as tea history and tea drinking traditions.
+Website offers clean and structured design, allowing user easy and intuitive navigation.
     
 # UX    
  ## Website owner business goals 
@@ -229,7 +234,7 @@ No error are detected.
    Navigational bar on Medium and Large screens:
   ![Navigation on large screen](assets/img/navbar-desktop.png)
   
-Navigational bar on Medium and Large screens:
+Navigational bar on Medium and Small screens:
 
 ![Navigation on small screen](assets/img/navbar-mobile.png)
 
@@ -285,7 +290,7 @@ Implemented Delivery and Returns page giving cistomer information about delivery
 | Footer | Homepage link | *Click* on **Homepage** link Navigates to Homepage  | Navigates to home page | Pass |
 | Footer | Traditions link | *Click* on **Traditions** link Navigates to TEA DRINKING TRADITIONS  section | Navigates to TEA DRINKING TRADITIONS section | Pass |
 | Footer | History link | *Click* on **History** link Navigates to HISTORY  section | Navigates to HISTORY section | Pass |
-| Footer | Get in touch link | *Click* on **Get in touch** link open modulo with form where user can submit message | Modulo displayed correctly | Pass |
+| Footer | Delivery and Returns link | *Click* on **Delivery and Returns** link navigates to *domain*/delivery.html | Navigates to *domain*/delivery.html | Pass |
 | Footer | Facebook icon | *Click* on **Facebook** icon open Facebook website on the new page  | Open new page with Facebook | Pass |
 | Footer | LinkedIn icon | *Click* on **LinkedIn** icon open LinkedIn website on the new page  | Open new page with LinkedIn | Pass |
 | Footer | GitHub icon | *Click* on **GitHub** icon open GitHub website on the new page  | Open new page with GitHub | Pass |
