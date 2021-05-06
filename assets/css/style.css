@@ -421,6 +421,9 @@ footer h3, footer ul, footer p {
 
 @media screen and (max-width: 600px) {
 
+    .brand-name-container h1 {
+        font-size: 1.8em;
+    }
     /*----------------------------*/
     .jumbo--box {
         background-color: rgba(32, 83, 32, 0.9);
