@@ -171,15 +171,17 @@ The website is a single page with interactive links to sections on the page with
 
 # Testing 
 
-## Automated testing
+
 
 ### HTML W3 code validator
+
 All pages were tested.
-HTML displaying 1 error message:
+
+W3 HTML validator displaying 1 error message:
 > Consider using the `h1` element as a top-level heading only
 
-This error appear because my h1 element is wrapped inside div element. Its done to position elements properly.
-Decided to ignore this error, as it's not causing website to malfunction.
+This error appear because my h1 element is wrapped inside div element. It's done to position elements properly.
+
 ![W3HTML](assets/img/w3_html.png)
 
 ###  W3C CSS validator
@@ -215,7 +217,7 @@ No error are detected.
  - Adjusted screen to 320px. This screen size have an issue displaying in Google Chrome, it but looks better in mozilla
    - [Chrome-320px](assets/img/responcivnes_320px.png),
    - [Mozzilla-320px](assets/img/responcivness-320-moz.png)
-   
+   - After changing Bootstrap columns setup pictures are displayed correctly [320px chrome](assets/img/320px_responsiveness.png)
 
 
   # User stories testing
@@ -236,12 +238,14 @@ Navigational bar on Medium and Large screens:
 >  As a user, I want to be able easily access contact details
 
 Contact us form is implemented.
+
 ![contact us form](assets/img/contact_us_form.png)
 
 
 > As a user, I want to see relevant information about products offered on the website
 
 Implemented description how to order, what customer will receive and selection of choices to pick from.
+
 ![product info](assets/img/user_product_info.png)
 
 >  As a user, I want to see reviews about products offered which would help me make my decision about specific item I may be interested.
