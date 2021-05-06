@@ -27,13 +27,16 @@
 - [Credits](#credits)    
     
 
-#INTRODUCTION
+# INTRODUCTION
+
 This website is built for the private tea shop, which offering tea delivery by subscription service.
 Website feature different variety of tea to choose from, as well as some useful information to user, such as tea history and tea drinking traditions.
 Website offers clean and structured design, allowing user easy and intuitive navigation.
     
 # UX    
+
  ## Website owner business goals 
+
  - As the site owner of this imaginary teashop, I want to deliver clean and easy to read information about different types of tea that exist in the world.  Tea varieties offered on the website are green, black, white and pu’er teas. 
  -  As a business I want to give opportunity to my visitors to personally try different types of tea by getting in touch with us through the contact form.    Also, I would like to help customers learn more about how tea is grown, how it processed and delivered around the globe and end up in their morning cup of tea.    
   
