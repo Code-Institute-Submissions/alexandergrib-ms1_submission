@@ -174,7 +174,7 @@ The website is a single page with interactive links to sections on the page with
 ## Automated testing
 
 ### HTML W3 code validator
-
+All pages were tested.
 HTML displaying 1 error message:
 > Consider using the `h1` element as a top-level heading only
 
@@ -182,8 +182,8 @@ This error appear because my h1 element is wrapped inside div element. Its done 
 Decided to ignore this error, as it's not causing website to malfunction.
 ![W3HTML](assets/img/w3_html.png)
 
-### CSS w3 validator
-
+###  W3C CSS validator
+All pages were tested.
 No error are detected.
 
 
@@ -221,7 +221,7 @@ No error are detected.
   # User stories testing
   
   Each user stories tested throughout website
-> As a user, I want have easy and intuitive navigation through the website  
+> As a user, I want to have easy and intuitive navigation through the website  
   
   Navigational bar is implemented into website, so any customer is able to access relative information quick and easy.
    Navigational bar on Medium and Large screens:
