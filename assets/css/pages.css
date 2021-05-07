@@ -51,9 +51,10 @@ h3 + ul li, h3 + ol li, p {
 .delivery-body-container {
     clear: both;
     width: 60%;
-    padding-top: 50px;
+    padding-top: 100px;
     align-content: center;
     text-align: center;
+    min-height: 90vh;
 }
 
 .delivery-body-container h1 {
@@ -73,4 +74,5 @@ h3 + ul li, h3 + ol li, p {
     text-align: center;
     letter-spacing: 1px;
     line-height: 2.5rem;
+
 }
