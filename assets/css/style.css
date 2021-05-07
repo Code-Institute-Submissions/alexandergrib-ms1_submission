@@ -42,6 +42,7 @@ a:hover {
 .container {
     margin-top: 20px;
 }
+
 /*--navbar--*/
 .navbar {
     background-color: #93C47D;
@@ -96,6 +97,9 @@ a:hover {
     left: 1%;
 }
 
+
+
+
 .brand-name-container sup {
     top: -1.5em;
     position: relative;
@@ -104,6 +108,11 @@ a:hover {
     vertical-align: baseline;
 }
 
+.brand-name-container a:hover {
+    color: #ffffff;
+    border: none;
+    text-decoration: none !important;
+}
 /*---jumbotron--------------*/
 
 
@@ -118,7 +127,6 @@ a:hover {
     margin-bottom: 0;
     color: #ffffff;
 }
-
 
 
 #welcome--hdr {
@@ -422,6 +430,8 @@ footer h3, footer ul, footer p {
     .brand-name-container h1 {
         font-size: 1.8em;
     }
+
+
     /*----------------------------*/
     .jumbo--box {
         background-color: rgba(32, 83, 32, 0.9);
