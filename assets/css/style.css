@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700&family=Lexend:400,500,600');
 
 * {
     margin: 0px;
@@ -125,6 +125,7 @@ a:hover {
     border-radius: 20px;
     margin-bottom: 0;
     color: #ffffff;
+    font-family: Lexend, sans-serif;
 }
 
 
@@ -135,7 +136,7 @@ a:hover {
     line-height: 50px;
     text-align: center;
     vertical-align: middle;
-    font-size: 24px;
+    font-size: 1.9rem;
     text-transform: uppercase;
 
 
