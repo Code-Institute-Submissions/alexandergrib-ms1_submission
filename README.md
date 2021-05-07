@@ -366,7 +366,14 @@ Further reading and troubleshooting on cloning a repository from GitHub  [here](
   - Wrapped section in div and set padding top in css. (Tutor Assisted with solution)  
 - Some images overflowing  screen in small resolution (320px)
     - [320px image overflowing](assets/img/responcivness_bug_320px.png)
-    - need to find solution how to fix it. Website looks good above 550px wide.
+    - Fixed by replacing container columns from col-auto to (col-12, col-md-6)
+    
+- Footer displayed incorrectly in some cases
+    - [footer bug](assets/img/footer_bug_mobile.png)
+    - need to find solution on this issue. 
+    
+- Issue with horizontal scroll appearing some times, this issue is intermittent, and i cannot find what causing it, on refresh this issue goes away.
+
 ---
   
 # Credits   
