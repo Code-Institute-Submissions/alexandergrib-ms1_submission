@@ -13,13 +13,11 @@
   - [User goals](#user-goals)    
   - [User stories](#user-stories)    
   - [Structure of the website](#structure-of-the-website)    
-  - [Wireframes](#wireframes)    
+  - [Wireframes](#Wireframes)    
   - [Surface](#surface)    
 - [Features](#features)    
-  - [Existing features](#existing-features)    
-  
-- [Technologies used](#technologies-used)    
-- [Code Validation](#code-validation)    
+  - [Existing features](#existing-features)      
+- [Technologies used](#technologies-used)       
 - [Testing](#testing)        
 - [Deployment](#deployment)    
 - [Bugs](#bugs)  
@@ -76,7 +74,9 @@ Website offers clean and structured design, allowing user easy and intuitive nav
 The website is set up to be used on as many devices as possible, this includes small mobile phones as well as extra-large 4k tv screens. Website has to be easy to navigate between sections by clicking required link in the navigation bar. Also includes easily accessible "contact me" form with acknowledgement message after completing and send.    
 There are small differences on some pages between mobile and desktop, to have a better visualization of the content, based on the device.     
     
-# Wireframes Wireframes can be found here:  
+# Wireframes 
+
+Wireframes can be found here:  
 
  [Desktop](wireframes/desktop.png)  
  [Tablet](wireframes/tablet.png)  
@@ -161,8 +161,9 @@ The website is a single page with interactive links to sections on the page with
     
 
     
-## Technologies used: - HTML:     
+## Technologies used 
 
+- HTML
 - CSS    
 - Bootstrap    
 - Fontawesome    
