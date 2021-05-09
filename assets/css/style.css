@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700&family=Lexend:400,500,600');
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Lexend:wght@100;300;400&family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,300;1,400&display=swap');
 
 * {
-    margin: 0px;
-    padding: 0px;
-    border: 0px;
+    margin: 0;
+    padding: 0;
+    border: 0;
 }
 
 
@@ -11,7 +11,7 @@
 
 
 body {
-    font-family: Roboto, sans-serif;
+    font-family: "Roboto", sans-serif;
     background-color: rgba(68, 177, 68, 0.3);
     color: #474545;
     scroll-behavior: smooth
@@ -30,7 +30,7 @@ h1 {
 
 hr {
     margin-top: 50px;
-    margin-bottom: 0px;
+    margin-bottom: 0;
 }
 
 a:hover {
@@ -73,7 +73,7 @@ a:hover {
 }
 
 #logoimg img {
-    margin-top: 0px;
+    margin-top: 0;
     width: 50px;
     height: auto;
     border-radius: 50%;
@@ -81,7 +81,7 @@ a:hover {
 
 
 .hero--img {
-    background: #D0E4F5 url("../img/sm_arfan-abdulazeez-oi0FvNhkHy8-unsplash.jpg") repeat-x fixed 50% 0%;
+    background: #D0E4F5 url("../img/sm_arfan-abdulazeez-oi0FvNhkHy8-unsplash.jpg") repeat-x fixed 50% 0;
     height: 350px;
     width: 100%;
 }
@@ -125,7 +125,7 @@ a:hover {
     border-radius: 20px;
     margin-bottom: 0;
     color: #ffffff;
-    font-family: Lexend, sans-serif;
+    font-family: "Lexend", sans-serif;
 }
 
 
@@ -136,7 +136,7 @@ a:hover {
     line-height: 50px;
     text-align: center;
     vertical-align: middle;
-    font-size: 1.9rem;
+    font-size: 1.5rem;
     text-transform: uppercase;
 
 
