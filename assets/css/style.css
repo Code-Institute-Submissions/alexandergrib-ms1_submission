@@ -296,7 +296,7 @@ h1 {
     text-transform: uppercase;
 }
 
-/* carousel*/
+/* ---carousel------*/
 #carousel, #history {
     padding-top: 75px;
 }
@@ -387,7 +387,7 @@ h1 {
     list-style-type: none;
     text-align: center;
     color: white;
-    padding: 0px;
+    padding: 0;
 
 
 }
