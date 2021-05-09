@@ -16,7 +16,8 @@
   - [Wireframes](#Wireframes)    
   - [Surface](#surface)    
 - [Features](#features)    
-  - [Existing features](#existing-features)      
+  - [Existing features](#existing-features)  
+  - [Features left to implement](#Features-left-to-implement)  
 - [Technologies used](#technologies-used)       
 - [Testing](#testing)        
 - [Deployment](#deployment)    
@@ -160,6 +161,15 @@ The website is a single page with interactive links to sections on the page with
 - On submit, "thank you" alert message will be shown (submit form send information to CI server to display values sent)   
     
 
+
+## Features left to implement
+ 
+- Add handler to perform action on "subscribe now" button
+- Add payment handling system
+- Create user dashboard where users can manage their subscriptions
+
+
+
     
 ## Technologies used 
 
@@ -173,6 +183,7 @@ The website is a single page with interactive links to sections on the page with
 - Balsamiq    
 - [Trello](https://trello.com/b/AimOKUHW/ms1-project) for KANBAN project organizing  
     
+
 
 ---
 
