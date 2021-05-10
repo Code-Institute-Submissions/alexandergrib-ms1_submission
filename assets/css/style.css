@@ -6,16 +6,13 @@
     border: 0;
 }
 
-
 /*---- background colors ----*/
-
 
 body {
     font-family: "Roboto", sans-serif;
     background-color: rgba(68, 177, 68, 0.3);
     color: #474545;
     scroll-behavior: smooth
-
 }
 
 img {
@@ -51,11 +48,9 @@ a:hover {
 }
 
 /*links text color*/
-.navbar-icon-color,
-a {
+.navbar-icon-color, a {
     color: #ffffff;
 }
-
 
 a {
     color: #ffffff;
@@ -79,13 +74,11 @@ a:hover {
     border-radius: 50%;
 }
 
-
 .hero--img {
     background: #D0E4F5 url("../img/sm_arfan-abdulazeez-oi0FvNhkHy8-unsplash.jpg") repeat-x fixed 50% 0;
     height: 350px;
     width: 100%;
 }
-
 
 .brand-name-container {
     position: relative;
@@ -96,7 +89,6 @@ a:hover {
     justify-content: center;
     left: 1%;
 }
-
 
 .brand-name-container sup {
     top: -1.5em;
@@ -113,8 +105,6 @@ a:hover {
 }
 
 /*---jumbotron--------------*/
-
-
 .jumbo--box {
     background-color: rgba(32, 83, 32, 0.9);
     position: relative;
@@ -128,7 +118,6 @@ a:hover {
     font-family: "Lexend", sans-serif;
 }
 
-
 #welcome--hdr {
     position: relative;
     top: 30px;
@@ -138,8 +127,6 @@ a:hover {
     vertical-align: middle;
     font-size: 1.5rem;
     text-transform: uppercase;
-
-
 }
 
 #welcome--text {
@@ -163,9 +150,7 @@ a:hover {
     white-space: pre;
 }
 
-
 /*--How it works section----------------*/
-
 .how-to-container {
     padding-top: 20px;
     text-align: center;
@@ -194,10 +179,8 @@ a:hover {
     border-radius: 1.5rem;
 }
 
-
 .what-you-get {
     padding-top: 40px;
-
 }
 
 .what-you-get hr {
@@ -222,7 +205,6 @@ a:hover {
 .list-wrapper li {
     list-style: none;
     margin: 0 0 3px 0;
-
 }
 
 .list-wrapper span {
@@ -239,7 +221,6 @@ a:hover {
     text-transform: uppercase;
     justify-content: center;
 }
-
 
 .selection--div {
     margin-left: 10%;
@@ -263,7 +244,6 @@ a:hover {
     margin-top: 8px;
     justify-content: center;
     text-align: center;
-
 }
 
 .selection--div h3 {
@@ -281,7 +261,6 @@ a:hover {
     border-bottom: 1px solid;
     border-bottom-color: #0082AF;
 }
-
 
 .selection--div p {
     font-size: 80%;
@@ -306,7 +285,6 @@ h1 {
     margin-bottom: 30px;
 }
 
-
 .carousel-caption {
     color: white;
     background-color: rgba(0, 130, 175, 0.3);
@@ -318,7 +296,6 @@ h1 {
 }
 
 /*----History section----*/
-
 .history--container {
     text-transform: uppercase;
     text-align: center;
@@ -349,17 +326,14 @@ h1 {
     margin-left: auto;
 }
 
-
 #about--us {
     margin-top: 100px;
     margin-bottom: 100px;
-
 }
 
 #about--us h2 {
     margin-bottom: 30px;
 }
-
 
 .modal {
     color: #3a3a3a;
@@ -369,7 +343,6 @@ h1 {
 .modal-body {
     background-color: rgba(182, 215, 168, .7);
 }
-
 
 .footer .col-4 {
     width: 33.33%;
@@ -381,22 +354,17 @@ h1 {
     margin-left: 2vw;
 }
 
-
 .footer--div li, .footer--div p, .footer--div a {
     font-size: small;
     list-style-type: none;
     text-align: center;
     color: white;
     padding: 0;
-
-
 }
 
 footer {
     background-color: #93C47D;
-
 }
-
 
 footer h3, footer ul, footer p {
     margin-top: 10px;
@@ -406,11 +374,9 @@ footer h3, footer ul, footer p {
     -1px -1px 0 rgba(0, 0, 0, .2);
 }
 
-
 .footer--div h3 {
     font-size: 20px;
     text-align: center;
-
 }
 
 #contact-us i {
@@ -422,18 +388,13 @@ footer h3, footer ul, footer p {
 #footer {
     position:relative;
     bottom:0;
-
 }
 
-
 /*----------small screens-------*/
-
 @media screen and (max-width: 600px) {
-
     .brand-name-container h1 {
         font-size: 1.8em;
     }
-
 
     /*----------------------------*/
     .jumbo--box {
@@ -456,7 +417,6 @@ footer h3, footer ul, footer p {
         vertical-align: middle;
         font-size: 26px;
         text-transform: uppercase;
-
     }
 
     #welcome--text {
@@ -470,7 +430,6 @@ footer h3, footer ul, footer p {
         text-transform: uppercase;
     }
 
-
     .selection--div {
         margin-left: 15px;
         margin-top: 25px;
@@ -480,9 +439,7 @@ footer h3, footer ul, footer p {
         background-color: rgba(182, 215, 168, 0.7);
         border-radius: 25px;
         display: inline-block;
-
     }
-
 
     .reviews h2 {
         text-align: center;
@@ -514,7 +471,6 @@ footer h3, footer ul, footer p {
         margin-left: 2vw;
     }
 
-
     .footer--div li, .footer--div p, .footer--div a {
         font-size: 10px;
         line-height: 10px;
@@ -524,7 +480,6 @@ footer h3, footer ul, footer p {
         margin-right: auto;
     }
 
-
     #contact-us i {
         font-size: 24px;
         letter-spacing: 3px;
@@ -533,7 +488,6 @@ footer h3, footer ul, footer p {
     .brand-name-container {
         left: 0;
     }
-
 }
 
 
