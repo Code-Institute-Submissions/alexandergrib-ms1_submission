@@ -295,6 +295,7 @@ Implemented Delivery and Returns page giving cistomer information about delivery
 | Header | TEA TRADITIONS link | *Click* on **TEA TRADITIONS** link Navigates to TEA DRINKING TRADITIONS section | Navigates to TEA DRINKING TRADITIONS section | Pass |
 | Header | TEA HISTORY link | *Click* on **TEA HISTORY** link Navigates to TEA DRINKING TRADITIONS section | Navigates to TEA HISTORY section  | Pass |
 | Header | Contact us link | *Click* on **CONTACT US** link open modulo with form where user can submit message | Modulo displayed correctly | Pass |
+| Home page | JOIN NOW button | *Click* on **JOIN NOW** button to open modulo with form where user can submit message | Modulo displayed correctly | Pass |
 | Home page/SELECT YOUR TEA section | BLACK TEA Link | *Click* on **BLACK TEA** navigates to *domain*/black.html| Navigates to *domain*/black.html | Pass |
 | Home page/SELECT YOUR TEA section | GREEN TEA Link | *Click* on **GREEN TEA** navigates to *domain*/green.html| Navigates to *domain*/green.html | Pass |
 | Home page/SELECT YOUR TEA section | WHITE TEA Link | *Click* on **WHITE TEA** navigates to *domain*/white.html| Navigates to *domain*/white.html | Pass |
