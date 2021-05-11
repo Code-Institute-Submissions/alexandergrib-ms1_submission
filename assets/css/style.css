@@ -105,7 +105,7 @@ a:hover {
     background: #D0E4F5 url("../img/alice-pasqual-2yZxFxn1938-unsplash.jpg") no-repeat fixed 0 0;
     height: 600px;
     width: 100%;
-    background-size: 1600px 800px;
+    background-size: 100vw 65vh;
 }
 
 
@@ -409,9 +409,9 @@ footer h3, footer ul, footer p {
 
 /*----------small screens-------*/
 @media screen and (max-width: 600px) {
-
     .hero--img {
         height: 450px;
+        background-size: 180vw 450px;
     }
 
     .brand-name-container h1 {
