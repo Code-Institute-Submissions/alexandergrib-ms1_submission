@@ -102,14 +102,15 @@ a:hover {
 /*---jumbotron--------------*/
 
 .hero--img {
-    background: #D0E4F5 url("../img/sm_arfan-abdulazeez-oi0FvNhkHy8-unsplash.jpg") repeat-x fixed 50% 0;
+    background: #D0E4F5 url("../img/alice-pasqual-2yZxFxn1938-unsplash.jpg") no-repeat fixed 0 0;
     height: 600px;
     width: 100%;
-    background-size: 700px 600px;
+    background-size: 1600px 800px;
 }
 
+
 .jumbo--box {
-    background-color: rgba(32, 83, 32, 0.9);
+    background-color: rgba(61, 72, 61, 0.90);
     position: relative;
     top: 12em;
     height: 300px;
@@ -410,8 +411,8 @@ footer h3, footer ul, footer p {
 @media screen and (max-width: 600px) {
 
     .hero--img {
-    height: 450px;
-}
+        height: 450px;
+    }
 
     .brand-name-container h1 {
         font-size: 1.8em;
