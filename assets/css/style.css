@@ -74,11 +74,6 @@ a:hover {
     border-radius: 50%;
 }
 
-.hero--img {
-    background: #D0E4F5 url("../img/sm_arfan-abdulazeez-oi0FvNhkHy8-unsplash.jpg") repeat-x fixed 50% 0;
-    height: 350px;
-    width: 100%;
-}
 
 .brand-name-container {
     position: relative;
@@ -105,17 +100,25 @@ a:hover {
 }
 
 /*---jumbotron--------------*/
+
+.hero--img {
+    background: #D0E4F5 url("../img/sm_arfan-abdulazeez-oi0FvNhkHy8-unsplash.jpg") repeat-x fixed 50% 0;
+    height: 600px;
+    width: 100%;
+    background-size: 700px 600px;
+}
+
 .jumbo--box {
     background-color: rgba(32, 83, 32, 0.9);
     position: relative;
-    left: 25%;
-    top: 7em;
-    height: 200px;
-    width: 50%;
+    top: 12em;
+    height: 300px;
+    width: 40%;
     border-radius: 20px;
-    margin-bottom: 0;
+    margin: auto;
     color: #ffffff;
     font-family: "Lexend", sans-serif;
+    padding: 10px 0;
 }
 
 #welcome--hdr {
@@ -138,6 +141,19 @@ a:hover {
     vertical-align: middle;
     font-size: 1.3rem;
     text-transform: uppercase;
+}
+
+#welcome--btn {
+    text-align: center;
+    text-transform: uppercase;
+    width: 10em;
+    height: 3em;
+    margin: auto;
+    position: absolute;
+    bottom: 1%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
 }
 
 #content1::after {
@@ -386,23 +402,25 @@ footer h3, footer ul, footer p {
 
 /*footer------------*/
 #footer {
-    position:relative;
-    bottom:0;
+    position: relative;
+    bottom: 0;
 }
 
 /*----------small screens-------*/
 @media screen and (max-width: 600px) {
+
+    .hero--img {
+    height: 450px;
+}
+
     .brand-name-container h1 {
         font-size: 1.8em;
     }
 
     /*----------------------------*/
     .jumbo--box {
-        background-color: rgba(32, 83, 32, 0.9);
-        position: relative;
-        left: 15%;
-        top: 7em;
-        height: 200px;
+        top: 7.7em;
+        height: 250px;
         width: 70%;
         border-radius: 20px;
         margin-bottom: 0;
@@ -412,11 +430,8 @@ footer h3, footer ul, footer p {
         position: relative;
         top: 30px;
         left: auto;
-        line-height: 50px;
-        text-align: center;
-        vertical-align: middle;
-        font-size: 26px;
-        text-transform: uppercase;
+        line-height: 35px;
+        font-size: 18px;
     }
 
     #welcome--text {
@@ -424,10 +439,8 @@ footer h3, footer ul, footer p {
         top: 30px;
         left: auto;
         line-height: 18px;
-        text-align: center;
-        vertical-align: middle;
         font-size: 12px;
-        text-transform: uppercase;
+
     }
 
     .selection--div {
