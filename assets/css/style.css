@@ -103,7 +103,7 @@ a:hover {
 
 .hero--img {
     background: #D0E4F5 url("../img/alice-pasqual-2yZxFxn1938-unsplash.jpg") no-repeat fixed 0 0;
-    height: 600px;
+    height: 800px;
     width: 100%;
     background-size: 100vw 80vh;
 }
@@ -112,7 +112,7 @@ a:hover {
 .jumbo--box {
     background-color: rgba(61, 72, 61, 0.90);
     position: relative;
-    top: 12em;
+    top: 16em;
     height: 300px;
     width: 40%;
     border-radius: 20px;
