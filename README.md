@@ -387,7 +387,8 @@ Further reading and troubleshooting on cloning a repository from GitHub  [here](
     - need to find solution on this issue. 
     
 - Issue with horizontal scroll appearing some times, this issue is intermittent, and I cannot find what causing it, on refresh this issue goes away.
-
+- Background image under jumbotron looks stretched on very wide monitor. It looks ok on normal size screen, and smaller screen
+    - Possible fix solution replacing css background image to responsive img element inside div, but it would lose scroll effect. Slight stretching look better compared to fixed image.
 ---
   
 # Credits   
