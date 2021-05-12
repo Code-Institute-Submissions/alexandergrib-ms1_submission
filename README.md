@@ -28,9 +28,10 @@
 
 # INTRODUCTION
 
-This website is built for the private tea shop, which offering tea delivery by subscription service.
-Website feature different variety of tea to choose from, as well as some useful information to user, such as tea history and tea drinking traditions.
-Website offers clean and structured design, allowing user easy and intuitive navigation.
+This website is built for the private tea shop, which offering tea delivery of subscription service. 
+Website features different varieties of tea to choose from, as well as some useful information to the user, 
+such as tea history and tea drinking traditions. The website offers clean and structured design, 
+allowing users easy and intuitive navigation.
     
 # UX    
 
@@ -44,8 +45,8 @@ Website offers clean and structured design, allowing user easy and intuitive nav
 ## User goals
 
 - As a user I want to have easy navigation and intuitive navigation through the website   
-- Simplicity of reading headlines and have a clear view of pictures    
-- Ability to navigate between pages and possibility to return to the home page whiting one click    
+- Simplicity of reading headlines and have a clear view of the pictures    
+- Ability to navigate between pages and has possibility to return to the home page whiting one click    
 - Site must be readable under all screen sizes, must include mobile (in my case it would be Samsung s8), and it should work with tablet screen and under high-res desktop screen    
 - Website should contain media gallery inside picture snippets with rounded edges and light border, with a possibility to scroll itself    
     
@@ -72,7 +73,7 @@ Website offers clean and structured design, allowing user easy and intuitive nav
    
 # Structure of the website 
 
-The website is set up to be used on as many devices as possible, this includes small mobile phones as well as extra-large 4k tv screens. Website has to be easy to navigate between sections by clicking required link in the navigation bar. Also includes easily accessible "contact me" form with acknowledgement message after completing and send.    
+The website is set up to be used on as many devices as possible, this includes small mobile phones as well as extra-large 4k tv screens. Website has to be easy to navigate between sections by clicking the required link in the navigation bar. Also includes easily accessible "contact me" form with an acknowledgement message after completing and send.    
 There are small differences on some pages between mobile and desktop, to have a better visualization of the content, based on the device.     
     
 # Wireframes 
@@ -95,7 +96,7 @@ I think Roboto font is a most used font across whole internet, and it would not 
     
 ## Colors 
 
-Trying to keep whole webpage in harmonic design and have it associated with “tea” colours, I decided to go for the light green colour for the header and footer and to keep it contrasted but organic in colour I went for the blue-ish for the background. To keep high contrast for the text I set colour to white with black shadow outline.    
+Trying to keep whole webpage in harmonic design and have it associated with “tea” colours, I decided to go for the light green colour for the header and footer and to keep it contrasted but organic I went for the blue-ish for the background. To keep high contrast for the text I set colour to white with black shadow outline.    
 I used following colours:    
 - Body background color: #C6E7C6    
 - jumbotron color: #215020  
@@ -136,7 +137,7 @@ The website is a single page with interactive links to sections on the page with
 - Visible on all pages     
 - Contain contact up link    
 - Imaginary business address information    
-- Fontawesome icons with links to default home page of linkedin, facebook, githup    
+- Fontawesome icons with links to default home page of LinkedIn, Facebook, GitHub    
 - Copyright information    
     
     
@@ -210,7 +211,7 @@ No error are detected.
 ## Google chrome developers tool
 
 ### Mobile  
-- Functionality testing – I used Google chrome developers tools to test different screens responsiveness of webpages, as well on actual mobile phone and large screen monitor.    
+- Functionality testing – I used Google Chrome developers tools to test different screens responsiveness of webpages, as well on actual mobile phone and large screen monitor.    
 - Code Validation – Lighthouse(google dev tools)    
      
 - Issues found during site development – see section problems encountered    
@@ -234,7 +235,7 @@ No error are detected.
    - [1024px](assets/img/responcivness_1024.png)
  - Adjusted screen to 320px. This screen size have an issue displaying in Google Chrome, it but looks better in mozilla
    - [Chrome-320px](assets/img/responcivnes_320px.png),
-   - [Mozzilla-320px](assets/img/responcivness-320-moz.png)
+   - [Mozilla-320px](assets/img/responcivness-320-moz.png)
    - After changing Bootstrap columns setup pictures are displayed correctly [320px chrome](assets/img/320px_responsiveness.png)
 
 
@@ -280,7 +281,7 @@ Implemented history section:
 
 > As a user, I want to have option to stop subscription if I wish to
 
-Implemented Delivery and Returns page giving cistomer information about delivery and cancellations
+Implemented Delivery and Returns page giving customer information about delivery and cancellations
 ![Delivery and returns section](assets/img/delivery_cancelations.png)
 
 ---
@@ -385,7 +386,7 @@ Further reading and troubleshooting on cloning a repository from GitHub  [here](
     - [footer bug](assets/img/footer_bug_mobile.png)
     - need to find solution on this issue. 
     
-- Issue with horizontal scroll appearing some times, this issue is intermittent, and i cannot find what causing it, on refresh this issue goes away.
+- Issue with horizontal scroll appearing some times, this issue is intermittent, and I cannot find what causing it, on refresh this issue goes away.
 
 ---
   
