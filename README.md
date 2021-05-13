@@ -18,6 +18,7 @@
 - [Features](#features)    
   - [Existing features](#existing-features)  
   - [Features left to implement](#Features-left-to-implement)  
+- [Languages used](#Languages-used)
 - [Technologies used](#technologies-used)       
 - [Testing](#testing)        
 - [Deployment](#deployment)    
@@ -170,19 +171,30 @@ The website is a single page with interactive links to sections on the page with
 - Create user dashboard where users can manage their subscriptions
 
 
+## Languages used
+- HTML
+- CSS 
 
     
 ## Technologies used 
-
-- HTML
-- CSS    
-- Bootstrap    
+- Pycharm 
+  * Pycharm was used to create this project
+   
+- Bootstrap 
+  * Bootstrap was used to assist with the responsiveness and styling of the website.
 - Fontawesome    
+  * Font Awesome was used throughout the website to add icons for aesthetic and UX purposes.
+- Jquery
+  * jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
 - Google Fonts      
-- Github    
-- Git    
-- Balsamiq    
-- [Trello](https://trello.com/b/AimOKUHW/ms1-project) for KANBAN project organizing  
+- Github
+  * GitHub is used to store the projects code after being pushed from Git.
+- Git   
+  * Git was used for version control by utilizing the Pycharm terminal to commit to Git and Push to GitHub.
+- Balsamiq  
+  * Balsamiq was used to create the wireframes during the design process.
+- [Trello](https://trello.com/b/AimOKUHW/ms1-project) 
+  * Trello was used for KANBAN project organizing.  
     
 
 
