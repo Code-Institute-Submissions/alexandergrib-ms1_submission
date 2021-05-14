@@ -188,6 +188,7 @@ a:hover {
 
 .how-to-container p {
     padding-top: 10px;
+    font-size: 1.2rem;
 }
 
 .how-to-container img {
@@ -281,7 +282,7 @@ a:hover {
 }
 
 .selection--div p {
-    font-size: 80%;
+    font-size: 90%;
     text-align: center;
 }
 
@@ -319,7 +320,8 @@ h1 {
     text-align: center;
 
 }
-.history--container h2{
+
+.history--container h2 {
     font-weight: 600;
 }
 
@@ -337,7 +339,7 @@ h1 {
 
 .reviews p {
     margin-top: 30px;
-    font-size: small;
+    font-size: medium;
     text-align: justify;
 }
 
