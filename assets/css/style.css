@@ -327,13 +327,15 @@ h1 {
 
 /*----History section----*/
 .history--container {
-    text-transform: uppercase;
     text-align: center;
+    font-size: 1.2em;
 
 }
 
+
 .history--container h2 {
     font-weight: 600;
+        text-transform: uppercase;
 }
 
 .history--container .jumbotron {
@@ -365,6 +367,7 @@ h1 {
 #about--us {
     margin-top: 100px;
     margin-bottom: 100px;
+
 }
 
 #about--us h2 {
