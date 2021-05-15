@@ -29,7 +29,7 @@
 
 # INTRODUCTION
 
-This website is built for the private tea shop, which offering tea delivery of subscription service. 
+This website is built for the private teashop, which offers a of subscription based tea delivery service. 
 Website features different varieties of tea to choose from, as well as some useful information to the user, 
 such as tea history and tea drinking traditions. The website offers clean and structured design, 
 allowing users easy and intuitive navigation.
@@ -38,16 +38,15 @@ allowing users easy and intuitive navigation.
 
  ## Website owner business goals 
 
- - As the site owner of this imaginary teashop, I want to deliver clean and easy to read information about different types of tea that exist in the world.  Tea varieties offered on the website are green, black, white and pu’er teas. 
- - As a business I want to give opportunity to my visitors to personally try different types of tea by getting in touch with us through the contact form.    Also, I would like to help customers learn more about how tea is grown, how it processed and delivered around the globe and end up in their morning cup of tea.    
-  
+ - As the site owner of this imaginary teashop, I want to deliver clean and easy to read information about how the subscription works, what it includes, price and help users choose the tea for their subscription by explaining different types of tea that exist in the world.  Tea varieties offered on the website are green, black, white and pu’er teas. 
+ - As a business I would like to help customers learn more about how tea is grown, how it processed and delivered around the globe and end up in their morning cup of tea. With increased interest users have a easy way to quicly get in touch with us by using the contact form to start their subscription.
   
   
 ## User goals
 
 - As a user I want to have easy navigation and intuitive navigation through the website   
 - Simplicity of reading headlines and have a clear view of the pictures    
-- Ability to navigate between pages and has possibility to return to the home page whiting one click    
+- Ability to navigate between pages and has possibility to return to the home page with one click    
 - Site must be readable under all screen sizes, must include mobile (in my case it would be Samsung s8), and it should work with tablet screen and under high-res desktop screen    
 - Website should contain media gallery inside picture snippets with rounded edges and light border, with a possibility to scroll itself    
     
@@ -56,8 +55,8 @@ allowing users easy and intuitive navigation.
 
 ### As a business owner: 
 
-- I want to provide in-depth information about the products I offer through  click-in option on product images    
-- To place an order and enquire further about the subscription user should fill out  “Contact me” form.    
+- I want to provide an in-depth information about the products I offer through click-in option on the product images    
+- For my customers to be able to place an order and enquire further about the subscription through “Contact us” form.    
     
     
     
@@ -91,13 +90,13 @@ Wireframes can be found here:
  
   ## Fonts
   
-  I decided to go with Google Roboto font and sans-serif as a fallback font.    
-I think Roboto font is a most used font across whole internet, and it would not look too different for the user coming from any website they used to use.  This will create a more familiar feeling for the users.  
+I decided to go with Google Roboto font and sans-serif as a fallback font.    
+I think Roboto font is the most used font across whole internet and it would not look too different for the user coming from any website they used to use.  This will create a more familiar feeling for the users.  
     
     
 ## Colors 
 
-Trying to keep whole webpage in harmonic design and have it associated with “tea” colours, I decided to go for the light green colour for the header and footer and to keep it contrasted but organic I went for the blue-ish for the background. To keep high contrast for the text I set colour to white with black shadow outline.    
+Trying to keep whole webpage in harmonic design and have it associated with “tea” colours, I decided to go for the light green colour for the header and footer. To keep it contrasted but organic I went for the blue-ish for the background. To keep high contrast for the text I set colour to white with black shadow outline.    
 I used following colours:    
 - Body background color: #C6E7C6    
 - jumbotron color: #215020  
@@ -108,24 +107,24 @@ I used following colours:
     
 ## Images 
 
-- All images on the website was taken from internet resources with all credit information stated in "Credits" section of this README file.    
+- All images on the website were taken from internet resources with all credit information stated in "Credits" section of this README file.    
     
 ## Text 
 
-- While I tried to keep my website filled with useful information, I have had to copy some text mainly from Wikipedia page. Most text information is credited in “Credits” section in this README file     
+- As I tried to provide useful information on my website, I copied certain text mainly from Wikipedia page. Most text information is credited in “Credits” section in this README file     
     
 # Features 
 
-The website is a single page with interactive links to sections on the page with popup window with send me a message form.    
+The website is a single page with interactive links to sections on the page with popup window with a "send me a message" - type of form.    
     
 ## Existing Features 
 
 ### Navigation Bar (in the Header): 
 
 - Visible on all pages and attached to the top of the page    
-- Mobile view collapses links into “Burger menu”     
+- Mobile view collapses links into a “Burger menu”     
 - Left side of navigation bar contains Logo image with active link to homepage    
-- Right side of navigation bar contain 4 hyperlinks:    
+- Right side of navigation bar contains 4 hyperlinks:    
   - Home    
   - Tea traditions(gallery)    
   - Tea History    
@@ -136,7 +135,7 @@ The website is a single page with interactive links to sections on the page with
 ### Footer: 
 
 - Visible on all pages     
-- Contain contact up link    
+- Contains "contact us" link    
 - Imaginary business address information    
 - Fontawesome icons with links to default home page of LinkedIn, Facebook, GitHub    
 - Copyright information    
@@ -160,7 +159,7 @@ The website is a single page with interactive links to sections on the page with
 ### Contact form (contact.html): 
 
 - Required form fields: Name, Email address, tea selection and Message  fields  
-- On submit, "thank you" alert message will be shown (submit form send information to CI server to display values sent)   
+- On submit, "thank you" alert message will be shown (submit form sends information to CI server to display values sent)   
     
 
 
@@ -211,13 +210,13 @@ All pages were tested.
 W3 HTML validator displaying 1 error message:
 > Consider using the `h1` element as a top-level heading only
 
-This error appear because my h1 element is wrapped inside div element. It's done to position elements properly.
+This error appeared because my h1 element is wrapped inside div element. It's done to position elements properly.
 
 ![W3HTML](assets/img/w3_html.png)
 
 ###  W3C CSS validator
 All pages were tested.
-No error are detected.
+No errors were detected.
 
 
 ## Google chrome developers tool
@@ -256,7 +255,7 @@ No error are detected.
   Each user stories tested throughout website
 > As a user, I want to have easy and intuitive navigation through the website  
   
-  Navigational bar is implemented into website, so any customer is able to access relative information quick and easy.
+  Navigational bar is implemented into website, so any customer is able to access relative information quickly and easily.
    Navigational bar on Medium and Large screens:
   ![Navigation on large screen](assets/img/navbar-desktop.png)
   
@@ -268,14 +267,14 @@ Navigational bar on Medium and Small screens:
 
 >  As a user, I want to be able easily access contact details
 
-Contact us form is implemented.
+"Contact us" form is implemented.
 
 ![contact us form](assets/img/contact_us_form.png)
 
 
 > As a user, I want to see relevant information about products offered on the website
 
-Implemented description how to order, what customer will receive and selection of choices to pick from.
+Implemented description on how to order, what customer will receive and selection of choices to pick from.
 
 ![product info](assets/img/user_product_info.png)
 
@@ -299,7 +298,7 @@ Implemented Delivery and Returns page giving customer information about delivery
 ---
 
   ## Manual testing
-  Throughout the website every link, button, icon and image was tested and all results are displayed in the table below:
+  Throughout the website every link, button, icon and image were tested and all results are displayed in the table below:
   
 | Location | Type | Expected Result | Actual Result | Pass/Fail |
 | :----: | :----: | :----: | :----: | :----: |
@@ -383,12 +382,12 @@ Further reading and troubleshooting on cloning a repository from GitHub  [here](
   - fixed by adding @media query to resize image    
 - Navigation bar not collapsing back    
   - fixed by adding script at the bottom of the body [solution found here](https://stackoverflow.com/questions/28472815/bootstrap-navbar-collapse-not-closing-on-click)    
-- Image on the tea page have text overlapping image  
+- Image on the tea page has text overlapping the image  
    - fixed by setting image height and width to responsive instead of fixed values  
 - Issue with alignment of columns in footer section    
-  - Added div container around row, this helped to squeeze columns bit closer to the center. (Tutor Assisted with solution)  
+  - Added div container around row, this helped to squeeze columns bit closer to the center. (Tutor assisted with the solution)  
     
-- Headers are hiding under navbar when link to sections are clicked      
+- Section headers are hiding under navbar when the links to sections are clicked      
   - Wrapped section in div and set padding top in css. (Tutor Assisted with solution)  
 - Some images overflowing  screen in small resolution (320px)
     - [320px image overflowing](assets/img/responcivness_bug_320px.png)
@@ -398,9 +397,9 @@ Further reading and troubleshooting on cloning a repository from GitHub  [here](
     - [footer bug](assets/img/footer_bug_mobile.png)
     - need to find solution on this issue. 
     
-- Issue with horizontal scroll appearing some times, this issue is intermittent, and I cannot find what causing it, on refresh this issue goes away.
+- Issue with horizontal scroll appearing some times, this issue is intermittent and I cannot find what causing it - on refresh this issue goes away.
 - Background image under jumbotron looks stretched on very wide monitor. It looks ok on normal size screen, and smaller screen
-    - Possible fix solution replacing css background image to responsive img element inside div, but it would lose scroll effect. Slight stretching look better compared to fixed image.
+   - moved the image from css into a seperate container
 ---
   
 # Credits   
